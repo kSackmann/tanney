@@ -14,7 +14,7 @@ sections:
       worth the money
     actions:
       - type: action
-        title: See all items
+        title: Zu unseren Produkten
         url: /store
         style: primary
         arrow: true
