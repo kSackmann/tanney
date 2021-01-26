@@ -6,12 +6,12 @@ sections:
     section_id: hero_section
     background_image: /images/milk-tea-GZpKVHIEjy4-unsplash.jpg
     background_image_opacity: 80
-    content: >
+    content: |
       # Tanney
 
+      Better than honey
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      worth the money
     actions:
       - type: action
         title: See all items
