@@ -7,9 +7,13 @@ sections:
     background_image: /images/milk-tea-GZpKVHIEjy4-unsplash.jpg
     background_image_opacity: 80
     content: |
-      # Tanney
+      # **Tanney**
+
+
 
       Better than honey
+
+
 
       worth the money
     actions:
