@@ -2,6 +2,19 @@
 title: Home
 white_header: false
 sections:
+  - type: testimonials_section
+    section_id: testimonials_section
+    testimonials:
+      - text: Super Honig!
+        author:
+          name: John Dope
+          location: 'Colorado, USA'
+      - text: >-
+          Well I'll be d*mned. These plants really ARE greener than any of my
+          recruits.
+        author:
+          name: Major Payne
+          location: 'VA, USA'
   - type: hero_section
     section_id: hero_section
     background_image: /images/milk-tea-GZpKVHIEjy4-unsplash.jpg
@@ -37,19 +50,6 @@ sections:
     featured_categories:
       - src/pages/category/bigplants.md
       - src/pages/category/cactuses.md
-  - type: testimonials_section
-    section_id: testimonials_section
-    testimonials:
-      - text: Super Honig!
-        author:
-          name: John Dope
-          location: 'Colorado, USA'
-      - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
-        author:
-          name: Major Payne
-          location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
