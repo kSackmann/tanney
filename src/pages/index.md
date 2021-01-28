@@ -29,9 +29,7 @@ sections:
         author:
           name: Winnie The Poo
           location: 'Colorado, USA'
-      - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+      - text: Sweet Shiit!
         author:
           name: Major Payne
           location: 'VA, USA'
