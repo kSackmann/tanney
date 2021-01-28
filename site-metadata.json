@@ -4,22 +4,34 @@
   "bg_image_primary": "",
   "main_menu": [
     {
-      "type": "action",
-      "title": "About",
-      "url": "/about",
-      "style": "link"
-    },
-    {
-      "type": "action",
-      "title": "FAQ",
-      "url": "/faq",
-      "style": "link"
-    },
-    {
       "style": "primary",
       "type": "action",
       "title": "Team",
       "url": "https://www.tanney/team"
+    },
+    {
+      "style": "primary",
+      "type": "action",
+      "title": "Produkte",
+      "url": "https://www.tanney/produkte"
+    },
+    {
+      "style": "primary",
+      "type": "action",
+      "title": "Rezepte",
+      "url": "https://www.tanney/rezepte"
+    },
+    {
+      "style": "primary",
+      "type": "action",
+      "title": "Nachhaltigkeit",
+      "url": "https://www.tanney/nachhaltigkeit"
+    },
+    {
+      "style": "primary",
+      "type": "action",
+      "title": "Kontakt",
+      "url": "https://www.tanney/kontakt"
     }
   ],
   "logo_dark": "",
