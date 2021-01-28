@@ -6,14 +6,14 @@
     {
       "style": "primary",
       "type": "action",
-      "title": "Team",
-      "url": "https://www.tanney/team"
+      "title": "Produkte",
+      "url": "https://www.tanney/produkte"
     },
     {
       "style": "primary",
       "type": "action",
-      "title": "Produkte",
-      "url": "https://www.tanney/produkte"
+      "title": "Team",
+      "url": "https://www.tanney/team"
     },
     {
       "style": "primary",
@@ -57,7 +57,7 @@
       }
     }
   },
-  "title": "Planty",
+  "title": "Tanney",
   "palette": "green",
   "snipcart_api_key": ""
 }
