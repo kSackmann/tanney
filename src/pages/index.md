@@ -27,7 +27,7 @@ sections:
     testimonials:
       - text: Super Honig!
         author:
-          name: John Dope
+          name: Winnie The Poo
           location: 'Colorado, USA'
       - text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
