@@ -13,7 +13,7 @@ sections:
       >
       > worth the money
 
-      ![](/images/Logo.jpg)
+      ![]()
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
