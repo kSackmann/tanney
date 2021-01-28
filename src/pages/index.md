@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: /images/milk-tea-GZpKVHIEjy4-unsplash.jpg
-    background_image_opacity: 90
+    background_image_opacity: 45
     content: |
       # **Tanney**
 
@@ -18,8 +18,8 @@ sections:
       worth the money
     actions:
       - type: action
-        title: Zu unseren Produkten
-        url: /store
+        title: Das Geheimnis aus dem Schwarzwald
+        url: /rezepte
         style: primary
         arrow: true
   - type: featured_categories_section
