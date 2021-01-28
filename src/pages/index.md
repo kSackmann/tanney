@@ -4,7 +4,7 @@ white_header: false
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: /images/milk-tea-GZpKVHIEjy4-unsplash.jpg
+    background_image: /images/arrow-left.svg
     background_image_opacity: 90
     content: |
       # **Tanney**
