@@ -2,19 +2,6 @@
 title: Home
 white_header: false
 sections:
-  - type: testimonials_section
-    section_id: testimonials_section
-    testimonials:
-      - text: Super Honig!
-        author:
-          name: John Dope
-          location: 'Colorado, USA'
-      - text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
-        author:
-          name: Major Payne
-          location: 'VA, USA'
   - type: hero_section
     section_id: hero_section
     background_image: /images/milk-tea-GZpKVHIEjy4-unsplash.jpg
@@ -35,6 +22,19 @@ sections:
         url: /store
         style: primary
         arrow: true
+  - type: testimonials_section
+    section_id: testimonials_section
+    testimonials:
+      - text: Super Honig!
+        author:
+          name: John Dope
+          location: 'Colorado, USA'
+      - text: >-
+          Well I'll be d*mned. These plants really ARE greener than any of my
+          recruits.
+        author:
+          name: Major Payne
+          location: 'VA, USA'
   - type: featured_products_section
     title: Best sellers
     section_id: best_sellers_section
