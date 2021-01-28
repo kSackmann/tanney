@@ -1,5 +1,5 @@
 ---
-title: About
+title: Team
 page_css_class: gray-background
 sections:
   - type: header_section
