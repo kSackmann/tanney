@@ -6,27 +6,20 @@ sections:
     section_id: hero_section
     background_image: /images/milk-tea-GZpKVHIEjy4-unsplash.jpg
     background_image_opacity: 10
-    content: |
+    content: |-
       # **Tanney**
 
+      > Better than honey
+      >
+      > worth the money
 
-
-      Better than honey
-
-
-
-      worth the money
+      ![](/images/Logo.jpg)
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
         url: /rezepte
         style: primary
         arrow: true
-  - type: featured_categories_section
-    section_id: featured_categories_section
-    featured_categories:
-      - src/pages/category/bigplants.md
-      - src/pages/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
     testimonials:
@@ -34,11 +27,10 @@ sections:
         author:
           name: John Dope
           location: Colorado, USA
-      - text: Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+      - text: Brabbeldabbel
         author:
-          name: Major Payne
-          location: VA, USA
+          name: Mr. Eloquent
+          location: Babylon
       - text: Blubb
         author:
           name: fisch
