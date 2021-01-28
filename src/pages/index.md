@@ -31,7 +31,7 @@ sections:
           location: 'Colorado, USA'
       - text: Sweet Shiit!
         author:
-          name: Major Payne
+          name: Bruno
           location: 'VA, USA'
   - type: featured_products_section
     title: Best sellers
