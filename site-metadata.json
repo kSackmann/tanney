@@ -3,7 +3,7 @@
     "snipcart_api_key": "",
     "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
     "logo_light": "/images/spectacular-robin.jpg",
-    "logo_dark": "images/logo.svg",
+    "logo_dark": "/images/Logo.jpg",
     "favicon": "images/favicon.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
