@@ -4,16 +4,21 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
-    background_image_opacity: 80
-    content: >-
-      # Real, beautiful plants right to your door
+    background_image: /images/milk-tea-GZpKVHIEjy4-unsplash.jpg
+    background_image_opacity: 90
+    content: |
+      # **Tanney**
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+
+      Better than honey
+
+
+
+      worth the money
     actions:
       - type: action
-        title: See all items
+        title: Zu unseren Produkten
         url: /store
         style: primary
         arrow: true
