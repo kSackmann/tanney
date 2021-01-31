@@ -7,31 +7,31 @@
       "style": "primary",
       "type": "action",
       "title": "Produkte",
-      "url": "https://www.tanney/produkte"
+      "url": "https://www.tanney.de/produkte"
     },
     {
       "style": "primary",
       "type": "action",
       "title": "Team",
-      "url": "https://www.tanney/team"
+      "url": "https://www.tanney.de/team"
     },
     {
       "style": "primary",
       "type": "action",
       "title": "Rezepte",
-      "url": "https://www.tanney/rezepte"
+      "url": "https://www.tanney.de/rezepte"
     },
     {
       "style": "primary",
       "type": "action",
       "title": "Nachhaltigkeit",
-      "url": "https://www.tanney/nachhaltigkeit"
+      "url": "https://www.tanney.de/nachhaltigkeit"
     },
     {
       "style": "primary",
       "type": "action",
       "title": "Kontakt",
-      "url": "https://www.tanney/kontakt"
+      "url": "https://www.tanney.de/kontakt"
     }
   ],
   "logo_dark": "",
