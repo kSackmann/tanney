@@ -18,6 +18,7 @@ export default class Body extends React.Component {
                     <meta charSet="UTF-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0"/>
                     <meta httpEquiv="X-UA-Compatible" content="ie=edge"/>
+                    <meta name="description" content="Honig"/> 
                     <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.18/default/snipcart.css" />
                     <link rel="icon" type="image/png" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
                     <body className={_.get(this.props, 'pageContext.frontmatter.template', null) + '-template'} />

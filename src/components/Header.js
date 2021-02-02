@@ -60,13 +60,7 @@ export default class Header extends React.Component {
                                 <div className="">
                                     <span className="snipcart-items-count" /> products | <span className="snipcart-total-price" />                        </div>
                                 </div>
-                            <button className="link snipcart-checkout hamburger__checkout">
-                                Checkout
-                                <svg width="26" height="14" viewBox="0 0 26 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M22.6819 6.07886H0V7.79048H22.8139L18.2402 12.3182L19.434 13.5L26 7L19.434 0.5L18.2402 1.68182L22.6819 6.07886Z" fill="currentColor"/>
-                                </svg>
-                            </button>
-                            <ul className="hamburger__nav">
+                                <ul className="hamburger__nav">
                                 {_.map(_.get(site, 'siteMetadata.main_menu', null), (item, item_idx) => {
                                     let section = _.get(page, 'frontmatter.section', null) || _.get(page, 'frontmatter.title', null);
                                     let isActive = (_.get(item, 'title', null) === section) ? (true) : false;
