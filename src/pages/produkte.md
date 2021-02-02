@@ -1,21 +1,23 @@
 ---
 title: Produkte
+white_header: true
 sections:
   - type: header_section
     subtitle: >-
       # Aktuelles
 
 
-      Wir sind gerade dabei zu tüfteln. Unsere erste Ernte findet im ersten Juniwochenende statt. Wandere und sammle mit uns mit!
-
-
+      Wir sind gerade dabei zu tüfteln. Unsere erste Ernte findet im ersten Juniwochenende statt. Wandere und sammle mit uns!
+    background_image: ""
+  - type: hero_section
+    content: >-
       # Unsere Zutaten
 
 
       ## Alle guten Dinge sind zwei:
 
 
-      ### Tannentriebe: AngeTRIEBEn 
+      ### Tannentriebe: AngeTRIEBEn
 
 
       ![](/images/fir-tree-5215224_1920.jpg "Junge Tannenspitzen")
@@ -31,6 +33,5 @@ sections:
 
 
       Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird frisch von Hand verlesen. Er wirkt entzündungshemmend und schleimlösend. Der Spitzwegerich ist aufgrund seiner medizinischen Wirkung bereits fester Bestandteil von Hustensäften.
-    background_image: /images/paul-teysen-djqg7h0eoig-unsplash.jpg
 template: advanced
 ---
