@@ -11,10 +11,11 @@ sections:
     background_image: ""
   - type: hero_section
     content: >-
-      # Unsere Zutaten
+      # Unsere Zutaten - Aller guten Dinge sind zwei
 
 
-      ## Alle guten Dinge sind zwei:
+
+
 
 
       ### Tannentriebe: AngeTRIEBEn
