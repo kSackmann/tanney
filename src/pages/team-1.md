@@ -12,13 +12,6 @@ sections:
 
       Jan und Kathrin verbindet die Liebe zur Natur, das Gärtnern sowie Kochen kreativer Gerichte und selbstgemachter Köstlichkeiten.
     background_image: ""
-  - type: bulletpoints_section
-    bulletpoints:
-      - title: Jan
-        description: Unternehmungslustig, Innovativ, Genießer
-        image: /images/jan1.png
-      - title: Kathrin
-        description: "Fröhlich, Vielseitig, Kreativ "
   - type: hero_section
     content: >-
       # **Tannenspitzensirup – der fast vergessene Schatz**
@@ -33,5 +26,13 @@ sections:
       \
 
       Jan, der Tannenspitzensirup noch nie gekostet hatte, war von dem aromatischen Naturprodukt begeistert. Und schon war die Idee geboren, dieses Wissen, um die Köstlichkeiten des regionalen Produkts, nicht in Vergessenheit geraten zu lassen. Wichtig war den beiden, dass das Produkt naturrein, regional und nachhaltig produziert wird – und dazu noch einen Beitrag zur Umwelt leistet.
+    background_image: /images/fir-tree-5215224_1920.jpg
+  - type: bulletpoints_section
+    bulletpoints:
+      - title: Jan
+        description: Unternehmungslustig, Innovativ, Genießer
+        image: /images/jan1.png
+      - title: Kathrin
+        description: "Fröhlich, Vielseitig, Kreativ "
 template: advanced
 ---
