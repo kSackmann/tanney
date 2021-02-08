@@ -26,7 +26,7 @@ sections:
       \
 
       Jan, der Tannenspitzensirup noch nie gekostet hatte, war von dem aromatischen Naturprodukt begeistert. Und schon war die Idee geboren, dieses Wissen, um die Köstlichkeiten des regionalen Produkts, nicht in Vergessenheit geraten zu lassen. Wichtig war den beiden, dass das Produkt naturrein, regional und nachhaltig produziert wird – und dazu noch einen Beitrag zur Umwelt leistet.
-    background_image: /images/fir-tree-5215224_1920.jpg
+    background_image: ""
   - type: bulletpoints_section
     bulletpoints:
       - title: Jan
