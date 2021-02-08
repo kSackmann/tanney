@@ -3,5 +3,6 @@ title: Rezepte
 sections:
   - type: hero_section
     background_image: /images/sincerely-media-jlq9iqmqjsu-unsplash.jpg
+    content: Wir arbeiten an Rezepten :)
 template: advanced
 ---
