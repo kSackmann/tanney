@@ -29,11 +29,11 @@ sections:
     background_image: ""
   - type: bulletpoints_section
     bulletpoints:
-      - title: Jan
-        description: Unternehmungslustig, Innovativ, Genießer
-        image: /images/jan1.png
       - title: Kathrin
         description: Fröhlich, Vielseitig, Kreativ
         image: /images/kathrin.jpg
+      - title: Jan
+        description: Unternehmerisch, Aktiv, Genießer
+        image: /images/jan1.png
 template: advanced
 ---
