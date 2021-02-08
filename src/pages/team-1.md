@@ -31,7 +31,7 @@ sections:
     bulletpoints:
       - title: Kathrin
         description: Fröhlich, Vielseitig, Kreativ
-        image: /images/kathrin.jpg
+        image: ""
       - title: Jan
         description: Unternehmerisch, Aktiv, Genießer
         image: /images/jan1.png
