@@ -11,7 +11,7 @@ sections:
 
 
       Jan und Kathrin verbindet die Liebe zur Natur, das Gärtnern sowie Kochen kreativer Gerichte und selbstgemachter Köstlichkeiten.
-    background_image: ""
+    background_image: /images/teamnt.png
   - type: hero_section
     content: >-
       # **Tannenspitzensirup – der fast vergessene Schatz**
