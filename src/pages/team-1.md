@@ -34,5 +34,6 @@ sections:
         image: /images/jan1.png
       - title: Kathrin
         description: "Fröhlich, Vielseitig, Kreativ "
+        image: /images/kathrin.jpg
 template: advanced
 ---
