@@ -11,7 +11,7 @@ sections:
 
 
       Jan und Kathrin verbindet die Liebe zur Natur, das Gärtnern sowie Kochen kreativer Gerichte und selbstgemachter Köstlichkeiten.
-    background_image: /images/teamnt.png
+    background_image: ""
   - type: hero_section
     content: >-
       # **Tannenspitzensirup – der fast vergessene Schatz**
@@ -33,7 +33,7 @@ sections:
         description: Unternehmungslustig, Innovativ, Genießer
         image: /images/jan1.png
       - title: Kathrin
-        description: "Fröhlich, Vielseitig, Kreativ "
+        description: Fröhlich, Vielseitig, Kreativ
         image: /images/kathrin.jpg
 template: advanced
 ---
