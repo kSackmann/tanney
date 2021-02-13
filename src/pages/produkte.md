@@ -1,6 +1,6 @@
 ---
 title: Produkte
-white_header: true
+white_header: false
 sections:
   - type: header_section
     subtitle: Wir sind gerade dabei zu tüfteln. Unsere erste Ernte findet im ersten
