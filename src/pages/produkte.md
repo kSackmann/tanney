@@ -11,14 +11,6 @@ sections:
   - type: bulletpoints_section
     section_id: " Unsere Zutaten - Aller guten Dinge sind zwei "
     bulletpoints:
-      - title: " Unsere Zutaten - Aller guten Dinge sind zwei"
-        description: ""
-      - title: Spitz(en)wegerich
-        description: Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird
-          frisch von Hand verlesen. Er wirkt entzündungshemmend und
-          schleimlösend. Der Spitzwegerich ist aufgrund seiner medizinischen
-          Wirkung bereits fester Bestandteil von Hustensäften.
-        image: /images/nature-3246364_1920.jpg
       - title: "Tannentriebe: AngeTRIEBEn"
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
@@ -30,5 +22,16 @@ sections:
           Das gewonnene Extrakt der Tannenwipfel wirkt dabei belebend, sowie
           entzündungshemmend und wohltuend gegen Husten und Halsschmerzen. 
         image: /images/fir-tree-5215224_1920.jpg
+      - title: ""
+        description: |-
+          #  Unsere Zutaten -
+
+          # Aller guten Dinge sind zwei
+      - title: Spitz(en)wegerich
+        description: Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird
+          frisch von Hand verlesen. Er wirkt entzündungshemmend und
+          schleimlösend. Der Spitzwegerich ist aufgrund seiner medizinischen
+          Wirkung bereits fester Bestandteil von Hustensäften.
+        image: /images/nature-3246364_1920.jpg
 template: advanced
 ---
