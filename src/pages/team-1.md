@@ -1,5 +1,6 @@
 ---
 title: Team
+white_header: false
 sections:
   - type: header_section
     headline: Team
@@ -23,6 +24,7 @@ sections:
       - title: Jan
         description: |-
           Energiebündel, Inspirationsquelle, Kreativwerkstatt	
+
 
           - Don´t worry, be tanney -  
         image: /images/bild1.jpg
