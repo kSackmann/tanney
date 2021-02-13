@@ -33,7 +33,10 @@ sections:
         description: Fröhlich, Vielseitig, Kreativ
         image: ""
       - title: Jan
-        description: Unternehmerisch, Aktiv, Genießer
-        image: /images/jan1.png
+        description: |-
+          Energiebündel, Inspirationsquelle, Kreativwerkstatt	
+
+          - Don´t worry, be tanney -  
+        image: /images/bild1.jpg
 template: advanced
 ---
