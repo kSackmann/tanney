@@ -12,7 +12,7 @@ sections:
     section_id: " Unsere Zutaten - Aller guten Dinge sind zwei"
     bulletpoints:
       - title: Aller guten Dinge sind zwei!
-        description: "# Unsere Zutaten"
+        description: "# Unsere Zutaten werden handverlesen und stammen aus der Region."
       - title: AngeTRIEBEn
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
