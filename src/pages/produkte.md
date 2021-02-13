@@ -8,21 +8,11 @@ sections:
     background_image: ""
     section_id: Aktuelles
     headline: Aktuelles
-  - type: hero_section
-    content: |+
-      # Unsere Zutaten - Aller guten Dinge sind zwei
-
-
-
-
-
-
-
-    background_image: ""
-    background_image_opacity: 40
   - type: bulletpoints_section
-    section_id: Unsere Zutaten
+    section_id: " Unsere Zutaten - Aller guten Dinge sind zwei "
     bulletpoints:
+      - title: " Unsere Zutaten - Aller guten Dinge sind zwei"
+        description: ""
       - title: Spitz(en)wegerich
         description: Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird
           frisch von Hand verlesen. Er wirkt entzündungshemmend und
