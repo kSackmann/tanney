@@ -9,10 +9,10 @@ sections:
     section_id: Aktuelles
     headline: Aktuelles
   - type: bulletpoints_section
-    section_id: " Unsere Zutaten - Aller guten Dinge sind zwei "
+    section_id: " Unsere Zutaten - Aller guten Dinge sind zwei"
     bulletpoints:
-      - title: Aller guten Dinge sind zwei
-        description: "# Unsere Zutaten:"
+      - title: Aller guten Dinge sind zwei!
+        description: "# Unsere Zutaten"
       - title: "Tannentriebe: AngeTRIEBEn"
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
