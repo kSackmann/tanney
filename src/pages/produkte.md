@@ -11,6 +11,8 @@ sections:
   - type: bulletpoints_section
     section_id: " Unsere Zutaten - Aller guten Dinge sind zwei "
     bulletpoints:
+      - title: Aller guten Dinge sind zwei
+        description: "# Unsere Zutaten:"
       - title: "Tannentriebe: AngeTRIEBEn"
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
@@ -22,11 +24,6 @@ sections:
           Das gewonnene Extrakt der Tannenwipfel wirkt dabei belebend, sowie
           entzündungshemmend und wohltuend gegen Husten und Halsschmerzen. 
         image: /images/fir-tree-5215224_1920.jpg
-      - title: ""
-        description: |-
-          #  Unsere Zutaten -
-
-          # Aller guten Dinge sind zwei
       - title: Spitz(en)wegerich
         description: Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird
           frisch von Hand verlesen. Er wirkt entzündungshemmend und
