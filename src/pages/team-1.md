@@ -38,5 +38,6 @@ sections:
 
           - Don´t worry, be tanney -  
         image: /images/bild1.jpg
+    section_id: ""
 template: advanced
 ---
