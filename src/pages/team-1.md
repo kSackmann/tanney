@@ -25,6 +25,6 @@ sections:
 
           - Don´t worry, be tanney -  
         image: /images/bild1.jpg
-    section_id: ""
+    section_id: Jan und Kathrin
 template: advanced
 ---
