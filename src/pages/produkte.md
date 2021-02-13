@@ -18,7 +18,7 @@ sections:
 
 
 
-    background_image: /images/fir-tree-5215224_1920.jpg
+    background_image: ""
     background_image_opacity: 40
   - type: bulletpoints_section
     section_id: Unsere Zutaten
