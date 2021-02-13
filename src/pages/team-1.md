@@ -17,8 +17,9 @@ sections:
       - title: Kathrin
         description: |-
           Fröhlich, Vielseitig, Kreativ
+
           - Tanney is always in the cards -
-        image: /images/1016565_936735949689791_7040246460474904409_n.jpg
+        image: /images/katy_small.jpg
       - title: Jan
         description: |-
           Energiebündel, Inspirationsquelle, Kreativwerkstatt	
