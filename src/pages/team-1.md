@@ -19,14 +19,13 @@ sections:
         description: |-
           Energiebündel, Inspirationsquelle, Kreativwerkstatt	
 
-
-          - Don´t worry, be tanney -  
+          * \- Don´t worry, be tanney -
         image: /images/bild1.jpg
       - title: Kathrin
         description: |-
           Fröhlich, Vielseitig, Kreativ
 
-          - Tanney is always in the cards -
+          * \- Tanney is always in the cards -
         image: /images/katy_small.jpg
     section_id: Jan und Kathrin
   - type: hero_section
