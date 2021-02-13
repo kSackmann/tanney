@@ -13,7 +13,7 @@ sections:
     bulletpoints:
       - title: Aller guten Dinge sind zwei!
         description: "# Unsere Zutaten"
-      - title: "Tannentriebe: AngeTRIEBEn"
+      - title: AngeTRIEBEn
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
           Zutat für unsere Produktauswahl gewonnen. Der aromatisch liebliche
