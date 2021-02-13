@@ -3,8 +3,8 @@ title: Produkte
 white_header: false
 sections:
   - type: header_section
-    subtitle: Wir sind gerade dabei zu tüfteln. Unsere erste Ernte findet im ersten
-      Juniwochenende statt. Wandere und sammle mit uns!
+    subtitle: Wir sind gerade dabei zu tüfteln. Unsere erste Ernte findet im Juni
+      2021 statt. Wandere und sammle mit uns!
     background_image: ""
     section_id: Aktuelles
     headline: Aktuelles
