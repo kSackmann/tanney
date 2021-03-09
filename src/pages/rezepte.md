@@ -1,5 +1,6 @@
 ---
 title: Rezepte
+white_header: true
 sections:
   - type: hero_section
     background_image: /images/jay-mantri-tfyi0qox08c-unsplash.jpg
