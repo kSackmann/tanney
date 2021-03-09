@@ -14,6 +14,6 @@ sections:
       Und weil uns das noch nicht reicht, unterstützen wir den Verein Bergwaldprojekt e.V. mit einem Spendenbeitrag mit jedem Produkt.
     background_image_opacity: 10
     background_image: /images/earth-3289810_1280.jpg
-    section_id: Nachhaltigkeit
+    section_id: ""
 template: advanced
 ---
