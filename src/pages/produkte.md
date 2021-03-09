@@ -23,6 +23,7 @@ sections:
       - title: Grundzutaten
         description: "# Wir verwenden gute Zutaten und lassen weg, was nicht
           hineingehört - weil der Geschmack entscheidet."
+        image: /images/fabian-wiktor-e-impayqv1s-unsplash.jpg
       - title: "Tannentrieb: Einsame Tannen Spitzen"
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
