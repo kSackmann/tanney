@@ -23,7 +23,7 @@ sections:
       - title: Grundzutaten
         description: "# Wir verwenden gute Zutaten und lassen weg, was nicht
           hineingehört - weil der Geschmack entscheidet."
-        image: /images/fabian-wiktor-e-impayqv1s-unsplash.jpg
+        image: ""
       - title: "Tannentrieb: Einsame Tannen Spitzen"
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
@@ -36,11 +36,15 @@ sections:
           entzündungshemmend und wohltuend gegen Husten und Halsschmerzen. 
         image: /images/fir-tree-5215224_1920.jpg
       - title: "Spitzwegerich: Spitzenplatz für den Spitzenwegerich"
-        description: Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird
+        description: >-
+          Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird
           frisch von Hand verlesen. Er wirkt entzündungshemmend und
           schleimlösend. Der Spitzwegerich ist aufgrund seiner medizinischen
           Wirkung bereits fester Bestandteil von Hustensäften.
-        image: /images/nature-3246364_1920.jpg
+
+
+          ![](/images/nature-3246364_1920.jpg)
+        image: ""
       - title: Lokale Rüben
         description: >-
           Unseren Rübenzucker beziehen wir von einem lokalen Produzenten mit
