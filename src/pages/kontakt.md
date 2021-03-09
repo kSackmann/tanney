@@ -5,7 +5,7 @@ sections:
     content: |-
       # Fragen oder Anregungen?
 
-      Melde dich bei info@tanney.de
+      Melde dich bei sunney@tanney.de
   - type: faq_section
     questions:
       - question: " Kann ich Tanney auch online kaufen? "
@@ -15,5 +15,8 @@ sections:
           beeinträchtigt?  "
         answer: ""
     section_id: "Tanneypedia – Wissen für dich! "
+  - type: hero_section
+  - type: header_section
+    headline: "Tanneypedia: Wissen für dich! "
 template: advanced
 ---
