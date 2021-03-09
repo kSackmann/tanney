@@ -9,12 +9,12 @@ sections:
     section_id: Aktuelles
     headline: Aktuelles
   - type: bulletpoints_section
-    section_id: " Unsere Zutaten - Aller guten Dinge sind zwei"
+    section_id: Unsere Produkte sind doppelt Spitze
     bulletpoints:
-      - title: Aller guten Dinge sind zwei!
+      - title: Grundzutaten
         description: "# Wir verwenden gute Zutaten und lassen weg, was nicht
           hineingehört - weil der Geschmack entscheidet."
-      - title: AngeTRIEBEn
+      - title: "Tannentrieb: Einsame Tannen Spitzen"
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
           Zutat für unsere Produktauswahl gewonnen. Der aromatisch liebliche
@@ -25,11 +25,23 @@ sections:
           Das gewonnene Extrakt der Tannenwipfel wirkt dabei belebend, sowie
           entzündungshemmend und wohltuend gegen Husten und Halsschmerzen. 
         image: /images/fir-tree-5215224_1920.jpg
-      - title: Spitz(en)wegerich
+      - title: "Spitzwegerich: Spitzenplatz für den Spitzenwegerich"
         description: Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird
           frisch von Hand verlesen. Er wirkt entzündungshemmend und
           schleimlösend. Der Spitzwegerich ist aufgrund seiner medizinischen
           Wirkung bereits fester Bestandteil von Hustensäften.
         image: /images/nature-3246364_1920.jpg
+      - title: "Lokale Rüben : Höchste Qualitätsgüte N ur das Nötigste"
+        description: >-
+          Unseren Rübenzucker beziehen wir von einem lokalen Produzenten mit
+          regionalem Anbau. Damit sind kurze Transportwege und heimische
+          Produktion garantiert sowie zunehmende Landgewinnung für Anbauflächen
+          in tropischen Ländern (Zuckerrohr) ausgeschlossen. Für uns ein
+          wichtiger ökologischer Aspekt.
+
+          Wir setzen auf einen bewussten Umgang mit Zucker und verwenden nur so viel wie nötig und versuchen nach Möglichkeit auch auf Alternativen zurück zu greifen.
+
+
+          Und zu guter Letzt steckt in all unseren Produkten echte Handarbeit und die Leidenschaft für ein hochwertiges Naturprodukt.
 template: advanced
 ---
