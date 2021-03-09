@@ -1,0 +1,4 @@
+---
+title: Impressum
+template: advanced
+---
