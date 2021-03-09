@@ -6,6 +6,8 @@ sections:
     section_id: Aktuelles
     content: Wir sind gerade dabei zu tüfteln. Unsere erste Ernte findet im Juni
       2021 statt. Wandere und sammle mit uns!
+    background_image: /images/earth-3289810_1280.jpg
+    background_image_opacity: 10
   - type: header_section
     subtitle: Wir sind gerade dabei zu tüfteln. Unsere erste Ernte findet im Juni
       2021 statt. Wandere und sammle mit uns!
