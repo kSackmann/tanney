@@ -17,12 +17,6 @@ sections:
         type: action
         title: Kontakt
         url: https://www.tanney.de/kontakt/
-  - type: header_section
-    subtitle: Wir sind gerade dabei zu tüfteln. Unsere erste Ernte findet im Juni
-      2021 statt. Wandere und sammle mit uns!
-    background_image: ""
-    section_id: Aktuelles
-    headline: Aktuelles
   - type: bulletpoints_section
     section_id: Unsere Produkte sind doppelt Spitze
     bulletpoints:
