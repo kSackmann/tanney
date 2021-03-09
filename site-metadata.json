@@ -1,6 +1,6 @@
 {
-  "hamburger_background_image": "",
-  "logo_light": "/images/spectacular-robin.jpg",
+  "hamburger_background_image": "/images/logo_üdt_2_champagner.png",
+  "logo_light": "/images/logo_üdt_2_silber.png",
   "bg_image_primary": "",
   "main_menu": [
     {
@@ -34,11 +34,11 @@
       "url": "https://www.tanney.de/kontakt"
     }
   ],
-  "logo_dark": "",
-  "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
-  "bg_image_product": "/images/leaf.svg",
-  "favicon": "",
-  "bg_image_secondary": "/images/leaf-light-grey.svg",
+  "logo_dark": "/images/logo_üdt_2_silber.png",
+  "footer_text": "Copyright 2021 Tanney. All rights reserved.",
+  "bg_image_product": "/images/logo_üdt_2_champagner.png",
+  "favicon": "/images/logo_üdt_2_champagner.png",
+  "bg_image_secondary": "/images/logo_üdt_2_champagner.png",
   "palettes": {
     "green": {
       "type": "palette",
