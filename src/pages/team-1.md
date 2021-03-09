@@ -1,5 +1,6 @@
 ---
 title: Team
+white_header: true
 sections:
   - type: hero_section
     background_image: /images/teamnt.png
