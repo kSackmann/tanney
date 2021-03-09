@@ -24,7 +24,9 @@ export default class Footer extends React.Component {
                         </li>
                         ))}
                         <li className="footer__nav-item">
-                        <Link to="https://www.tanney.de/impressum">Impressum</Link>
+                        <Link to="https://www.tanney.de/impressum" className="footer__nav-link">
+                            Impressum
+                            </Link>
                         </li>
                     </ul>
                     <div className="footer__legal-notice">{_.get(site, 'siteMetadata.footer_text', null)}</div>
