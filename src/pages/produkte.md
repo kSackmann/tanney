@@ -31,17 +31,15 @@ sections:
           schleimlösend. Der Spitzwegerich ist aufgrund seiner medizinischen
           Wirkung bereits fester Bestandteil von Hustensäften.
         image: /images/nature-3246364_1920.jpg
-      - title: "Lokale Rüben : Höchste Qualitätsgüte N ur das Nötigste"
+      - title: Lokale Rüben
         description: >-
           Unseren Rübenzucker beziehen wir von einem lokalen Produzenten mit
           regionalem Anbau. Damit sind kurze Transportwege und heimische
           Produktion garantiert sowie zunehmende Landgewinnung für Anbauflächen
-          in tropischen Ländern (Zuckerrohr) ausgeschlossen. Für uns ein
-          wichtiger ökologischer Aspekt.
-
-          Wir setzen auf einen bewussten Umgang mit Zucker und verwenden nur so viel wie nötig und versuchen nach Möglichkeit auch auf Alternativen zurück zu greifen.
+          in tropischen Ländern für Zuckerrohr ausgeschlossen.
 
 
-          Und zu guter Letzt steckt in all unseren Produkten echte Handarbeit und die Leidenschaft für ein hochwertiges Naturprodukt.
+
+          **Zu guter Letzt steckt in all unseren Produkten echte Handarbeit und die Leidenschaft für ein hochwertiges Naturprodukt.**
 template: advanced
 ---
