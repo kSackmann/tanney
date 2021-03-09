@@ -6,6 +6,8 @@ sections:
       # Fragen oder Anregungen?
 
       Melde dich bei sunney@tanney.de
+    background_image_opacity: 10
+    background_image: /images/header1.jpg
   - type: faq_section
     questions:
       - question: " Kann ich Tanney auch online kaufen? "
