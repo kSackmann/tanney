@@ -1,20 +1,30 @@
 ---
 title: Produkte
-white_header: false
+white_header: true
 sections:
-  - type: header_section
-    subtitle: Wir sind gerade dabei zu tüfteln. Unsere erste Ernte findet im Juni
-      2021 statt. Wandere und sammle mit uns!
-    background_image: ""
+  - type: hero_section
     section_id: Aktuelles
-    headline: Aktuelles
+    content: |-
+      Wir sind gerade dabei zu tüfteln...
+
+      Unsere erste Ernte findet im Juni 2021 statt. 
+
+      Wandere und sammle mit uns!
+    background_image: /images/header1.jpg
+    background_image_opacity: 10
+    actions:
+      - style: primary
+        type: action
+        title: Kontakt
+        url: https://www.tanney.de/kontakt/
   - type: bulletpoints_section
-    section_id: " Unsere Zutaten - Aller guten Dinge sind zwei"
+    section_id: Unsere Produkte sind doppelt Spitze
     bulletpoints:
-      - title: Aller guten Dinge sind zwei!
+      - title: Grundzutaten
         description: "# Wir verwenden gute Zutaten und lassen weg, was nicht
           hineingehört - weil der Geschmack entscheidet."
-      - title: AngeTRIEBEn
+        image: ""
+      - title: "Tannentrieb: Einsame Tannen Spitzen"
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
           Zutat für unsere Produktauswahl gewonnen. Der aromatisch liebliche
@@ -25,11 +35,25 @@ sections:
           Das gewonnene Extrakt der Tannenwipfel wirkt dabei belebend, sowie
           entzündungshemmend und wohltuend gegen Husten und Halsschmerzen. 
         image: /images/fir-tree-5215224_1920.jpg
-      - title: Spitz(en)wegerich
-        description: Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird
+      - title: "Spitzwegerich: Spitzenplatz für den Spitzenwegerich"
+        description: >-
+          Der Spitzwegerich wächst auf sonnigen Hängen und Wiesen und wird
           frisch von Hand verlesen. Er wirkt entzündungshemmend und
           schleimlösend. Der Spitzwegerich ist aufgrund seiner medizinischen
           Wirkung bereits fester Bestandteil von Hustensäften.
-        image: /images/nature-3246364_1920.jpg
+
+
+          ![](/images/nature-3246364_1920.jpg)
+        image: ""
+      - title: Lokale Rüben
+        description: >-
+          Unseren Rübenzucker beziehen wir von einem lokalen Produzenten mit
+          regionalem Anbau. Damit sind kurze Transportwege und heimische
+          Produktion garantiert sowie zunehmende Landgewinnung für Anbauflächen
+          in tropischen Ländern für Zuckerrohr ausgeschlossen.
+
+
+
+          **Zu guter Letzt steckt in all unseren Produkten echte Handarbeit und die Leidenschaft für ein hochwertiges Naturprodukt.**
 template: advanced
 ---
