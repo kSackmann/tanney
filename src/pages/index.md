@@ -7,7 +7,7 @@ sections:
     background_image: /images/header1.jpg
     background_image_opacity: 25
     content: |-
-      ![](/images/white_tanney.png)
+      ![](/images/tanney_opaque.png)
 
       # **Tanney**
 
