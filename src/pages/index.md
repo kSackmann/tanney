@@ -12,12 +12,20 @@ sections:
       > Better than honey
       >
       > worth the money
+      >
+      >
 
-      ![](/images/nuns-2304009_1920.jpg)
+      Endlich!
+
+      Ein veganes Alternativprodukt zu Agavendicksaft und Co:
+
+      Leckerer Sirup aus Tannenspitzen.
+
+      ![]()
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
-        url: /rezepte
+        url: /produkte
         style: primary
         arrow: true
   - type: testimonials_section
