@@ -7,6 +7,8 @@ sections:
     background_image: /images/header1.jpg
     background_image_opacity: 25
     content: |-
+      ![](/images/tanney.png)
+
       # **Tanney**
 
       Better than honey
@@ -15,7 +17,6 @@ sections:
 
       <br>
       <br>
-
 
       Endlich!
 
