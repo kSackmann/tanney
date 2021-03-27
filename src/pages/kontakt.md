@@ -1,6 +1,9 @@
 ---
 title: Kontakt
 sections:
+  - type: header_section
+    headline: Wissen für Pingu
+    background_image: /images/header1.jpg
   - type: hero_section
     content: |-
       # Fragen oder Anregungen?
@@ -17,8 +20,5 @@ sections:
           beeinträchtigt?  "
         answer: ""
     section_id: "Tanneypedia – Wissen für dich! "
-  - type: hero_section
-  - type: header_section
-    headline: "Tanneypedia: Wissen für dich! "
 template: advanced
 ---
