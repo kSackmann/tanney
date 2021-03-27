@@ -17,7 +17,6 @@ sections:
       <br>
 
 
-
       Endlich!
 
       Ein veganes Alternativprodukt zu Agavendicksaft und Co:
