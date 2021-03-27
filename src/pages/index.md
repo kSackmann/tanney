@@ -13,7 +13,7 @@ sections:
       >
       > worth the money
 
-      ![]()
+      ![](/images/nuns-2304009_1920.jpg)
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
