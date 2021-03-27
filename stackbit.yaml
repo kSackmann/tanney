@@ -330,6 +330,12 @@ models:
       - type: image
         label: Background image
         name: background_image
+      - type: number
+        name: background_image_opacity
+        label: Background image opacity
+        description: >-
+          An integer between 0 and 100. A lower value makes the image more
+          transparent
       - type: string
         label: Headline
         name: headline
