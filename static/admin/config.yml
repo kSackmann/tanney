@@ -600,6 +600,14 @@ collections:
                 name: background_image
                 label: Background image
                 required: false
+              - widget: number
+                name: background_image_opacity
+                label: Background image opacity
+                required: false
+                hint: >-
+                  An integer between 0 and 100. A lower value makes the
+                  image more transparent
+                valueType: int
               - widget: string
                 name: headline
                 label: Headline

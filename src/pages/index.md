@@ -7,17 +7,26 @@ sections:
     background_image: /images/header1.jpg
     background_image_opacity: 25
     content: |-
-      # **Tanney**
+      ![](/images/tanney_opaque.png)
 
-      > Better than honey
-      >
-      > worth the money
+      # Better than honey
+
+      # worth the money
+
+      <br>
+      <br>
+
+      Endlich!
+
+      Ein veganes Alternativprodukt zu Agavendicksaft und Co:
+
+      Leckerer Sirup aus Tannenspitzen.
 
       ![]()
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
-        url: /rezepte
+        url: /produkte
         style: primary
         arrow: true
   - type: testimonials_section
