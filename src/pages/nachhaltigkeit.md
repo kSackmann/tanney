@@ -2,6 +2,18 @@
 title: Nachhaltigkeit
 white_header: true
 sections:
+  - type: header_section
+    background_image: /images/jay-mantri-tfyi0qox08c-unsplash.jpg
+    background_image_opacity: 25
+    headline: Nachhaltigkeit
+    subtitle: |-
+      Unser (T)Anspruch
+
+
+
+
+
+      LALALLALA
   - type: hero_section
     content: >-
       # Unser (T)Anspruch
