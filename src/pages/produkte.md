@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: Aktuelles
     content: |-
-      Wir sind gerade dabei zu tüfteln...
+      Wir sind gerade dabei die Seite zu entwickeln...
 
       Unsere erste Ernte findet im Juni 2021 statt. 
 
@@ -24,7 +24,7 @@ sections:
         description: "# Wir verwenden gute Zutaten und lassen weg, was nicht
           hineingehört - weil der Geschmack entscheidet."
         image: ""
-      - title: "Tannentrieb: Einsame Tannen Spitzen"
+      - title: "Tannentrieb: Einsame Tannen-Spitze"
         description: >
           Aus den jungen Trieben „Wipfel“ der Zweige werden wird die wichtigste
           Zutat für unsere Produktauswahl gewonnen. Der aromatisch liebliche
