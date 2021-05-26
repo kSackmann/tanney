@@ -32,10 +32,14 @@ sections:
   - type: testimonials_section
     section_id: testimonials_section
     testimonials:
+      - text: Aktuelles
       - text: Unsere Manufaktur
         author:
-          name: Alles in Handarbeit
+          name: Echte Handarbeit
           location: ""
+      - text: Produkte
+        author:
+          name: Vielfalt & Erlebnis
       - text: Inspirationen
         author:
           name: Rezepte & Ideen
