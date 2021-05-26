@@ -4,10 +4,11 @@
   "bg_image_primary": "",
   "main_menu": [
     {
-      "style": "secondary",
+      "style": "primary",
       "type": "action",
       "title": "Produkte",
-      "url": "https://www.tanney.de/produkte"
+      "url": "https://www.tanney.de/produkte",
+      "arrow": false
     },
     {
       "style": "primary",
