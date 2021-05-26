@@ -32,16 +32,16 @@ sections:
   - type: testimonials_section
     section_id: testimonials_section
     testimonials:
-      - text: Honey roooocks
+      - text: Unsere Manufaktur
         author:
-          name: John Dope
-          location: Colorado, USA
-      - text: Brabbeldabbel
+          name: Alles in Handarbeit
+          location: ""
+      - text: Inspirationen
         author:
-          name: Mr. Eloquent
-          location: Babylon
-      - text: Blubb
+          name: Rezepte & Ideen
+          location: ""
+      - text: Unsere Partner
         author:
-          name: fisch
+          name: Genussmöglichkeiten
 template: home
 ---
