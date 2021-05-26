@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: /images/header1.jpg
-    background_image_opacity: 10
+    background_image_opacity: 1
     content: |-
       ![](/images/tanney_opaque.png)
 
