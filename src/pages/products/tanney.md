@@ -8,4 +8,4 @@ section: Store
 featured: false
 template: product
 ---
-Yummi
+Produktvielfalt
