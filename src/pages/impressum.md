@@ -17,8 +17,4 @@ Jan Kroner und Kathrin Sackmann
 Kontakt
 Telefon 0159 02160070
 E-Mail Sunney@Tanney.de
-
-
-
-template: advanced
 ---
