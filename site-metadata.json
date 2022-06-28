@@ -14,7 +14,7 @@
       "style": "primary",
       "type": "action",
       "title": "Team",
-      "url": "https://www.tanney.de/team"
+      "url": "www.tanney.de/team"
     },
     {
       "style": "primary",
@@ -38,7 +38,7 @@
       "style": "primary",
       "type": "action",
       "title": "Impressum",
-      "url": "/Impressum"
+      "url": "https://www.tanney.de/impressum"
     }
   ],
   "logo_dark": "/images/logo_üdt_2_silber.png",
