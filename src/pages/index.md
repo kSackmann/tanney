@@ -1,6 +1,6 @@
 ---
 title: Home
-white_header: false
+white_header: true
 sections:
   - type: header_section
   - type: hero_section
