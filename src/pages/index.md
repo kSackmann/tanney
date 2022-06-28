@@ -30,13 +30,15 @@ sections:
   - type: testimonials_section
     section_id: testimonials_section
     testimonials:
-      - text: Aktuelles
-      - text: Produkte
+      - text: '"Wie ein Saunaaufguss im Mund!"'
         author:
-          name: Vielfalt & Erlebnis
-      - text: Inspirationen
+          name: Nico
+      - text: '"Das neue schwarze Gold!"'
         author:
-          name: Rezepte & Ideen
+          name: Tiemanotti
+      - text: '"Wow"'
+        author:
+          name: Gertraud
           location: ""
 template: home
 ---
