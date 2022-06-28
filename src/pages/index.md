@@ -18,8 +18,6 @@ sections:
 
       Endlich!
 
-      Ein veganes Alternativprodukt zu Agavendicksaft und Co:
-
       Leckerer Sirup aus Tannenspitzen.
 
       ![]()
@@ -33,10 +31,6 @@ sections:
     section_id: testimonials_section
     testimonials:
       - text: Aktuelles
-      - text: Unsere Manufaktur
-        author:
-          name: Echte Handarbeit
-          location: ""
       - text: Produkte
         author:
           name: Vielfalt & Erlebnis
@@ -44,8 +38,5 @@ sections:
         author:
           name: Rezepte & Ideen
           location: ""
-      - text: Unsere Partner
-        author:
-          name: Genussmöglichkeiten
 template: home
 ---
