@@ -7,7 +7,7 @@ sections:
     background_image: /images/header1.jpg
     background_image_opacity: 10
     content: |-
-      ![](/images/logo_üdt_2_champagner.png)
+      ![]()
 
       # Better than honey
 
