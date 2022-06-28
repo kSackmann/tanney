@@ -33,12 +33,14 @@ sections:
       - text: '"Wie ein Saunaaufguss im Mund!"'
         author:
           name: Nico
+          location: "2022"
       - text: '"Das neue schwarze Gold!"'
         author:
           name: Tiemanotti
+          location: "2022"
       - text: '"Wow"'
         author:
           name: Gertraud
-          location: ""
+          location: "2022"
 template: home
 ---
