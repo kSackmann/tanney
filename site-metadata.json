@@ -33,6 +33,12 @@
       "type": "action",
       "title": "Kontakt",
       "url": "https://www.tanney.de/kontakt"
+    },
+    {
+      "style": "primary",
+      "type": "action",
+      "title": "Impressum",
+      "url": "/Impressum"
     }
   ],
   "logo_dark": "/images/logo_üdt_2_silber.png",
