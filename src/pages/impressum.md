@@ -2,7 +2,7 @@
 title: Impressum
 sections:
   - type: header_section
-   subtitle: Verantwortlich für den Inhalt dieser Webseite 
+    subtitle: Verantwortlich für den Inhalt dieser Webseite 
 
 Tanney 
 Martin-Luther-Str. 7D
