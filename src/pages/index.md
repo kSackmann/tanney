@@ -2,6 +2,7 @@
 title: Home
 white_header: false
 sections:
+  - type: header_section
   - type: hero_section
     section_id: hero_section
     background_image: /images/header1.jpg
