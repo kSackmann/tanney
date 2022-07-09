@@ -1,6 +1,6 @@
 ---
 title: Home
-white_header: true
+white_header: false
 sections:
   - type: header_section
     background_image: /images/header1.jpg
