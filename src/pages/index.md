@@ -12,14 +12,14 @@ sections:
     content: |-
       ![]()
 
-      # Better than honey
+      # Tanney
 
-      # worth the money
+      ## \- Better than honey -
+
+      ## \- worth the money -
 
       <br>
       <br>
-
-      Endlich!
 
       Leckerer Sirup aus Tannenspitzen.
 
