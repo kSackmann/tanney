@@ -9,7 +9,7 @@ sections:
       und streben nach einem klimaneutralem Handeln. Dazu ist unser
       Verpackungsmaterial zu 100% recyclingfähig.
     headline: Unser (T)Anspruch
-    background_image: /images/header1.jpg
+    background_image: /images/fir-tree-5215224_1920.jpg
     background_image_opacity: 10
 template: advanced
 ---
