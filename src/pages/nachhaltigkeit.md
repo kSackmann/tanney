@@ -10,6 +10,6 @@ sections:
       Verpackungsmaterial zu 100% recyclingfähig.
     headline: Unser (T)Anspruch
     background_image: /images/header1.jpg
-    background_image_opacity: 60
+    background_image_opacity: 10
 template: advanced
 ---
