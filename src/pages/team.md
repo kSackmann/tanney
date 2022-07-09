@@ -12,7 +12,7 @@ sections:
 
 
       Jan und Kathrin verbindet die Liebe zur Natur, das Gärtnern sowie Kochen kreativer Gerichte und selbstgemachter Köstlichkeiten.
-    background_image: ""
+    background_image: /images/jay-mantri-tfyi0qox08c-unsplash.jpg
   - type: bulletpoints_section
     bulletpoints:
       - title: Jan
