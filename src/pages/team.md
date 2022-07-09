@@ -1,6 +1,6 @@
 ---
 title: Team
-white_header: false
+white_header: true
 sections:
   - type: header_section
     headline: Team
@@ -12,7 +12,7 @@ sections:
 
 
       Jan und Kathrin verbindet die Liebe zur Natur, das Gärtnern sowie Kochen kreativer Gerichte und selbstgemachter Köstlichkeiten.
-    background_image: /images/jay-mantri-tfyi0qox08c-unsplash.jpg
+    background_image: /images/header1.jpg
   - type: bulletpoints_section
     bulletpoints:
       - title: Jan
