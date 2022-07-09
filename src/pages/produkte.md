@@ -4,12 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: Aktuelles
-    content: |-
-      Wir sind gerade dabei die Seite zu entwickeln...
-
-      Unsere erste Ernte findet im Juni 2021 statt. 
-
-      Wandere und sammle mit uns!
+    content: ""
     background_image: /images/header1.jpg
     background_image_opacity: 10
     actions:
