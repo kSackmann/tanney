@@ -26,7 +26,7 @@ sections:
   - type: testimonials_section
     section_id: testimonials_section
     testimonials:
-      - text: '"Wie ein Saunaaufguss im Mund!"'
+      - text: '"Ein Saunaaufguss im Mund!"'
         author:
           name: Nico
           location: "2022"
