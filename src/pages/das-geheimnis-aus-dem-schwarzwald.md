@@ -2,6 +2,7 @@
 title: Das Geheimnis
 white_header: false
 sections:
+  - type: header_section
   - type: bulletpoints_section
     bulletpoints:
       - description: "> Alles begann mit einem kleinen Glas aromatischen Tannensirup,
