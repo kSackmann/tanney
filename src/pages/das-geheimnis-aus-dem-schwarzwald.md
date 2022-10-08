@@ -1,6 +1,6 @@
 ---
 title: Das Geheimnis
-white_header: true
+white_header: false
 sections:
   - type: bulletpoints_section
     bulletpoints:
