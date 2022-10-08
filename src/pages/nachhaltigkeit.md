@@ -1,6 +1,6 @@
 ---
 title: Nachhaltigkeit
-white_header: true
+white_header: false
 sections:
   - type: header_section
     subtitle: Das Thema Klima- und Umweltschutz liegt uns am Herzen, daher achten
