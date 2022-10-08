@@ -1,5 +1,5 @@
 {
-  "hamburger_background_image": "/images/logo_üdt_2_champagner.png",
+  "hamburger_background_image": "",
   "logo_light": "/images/logo_üdt_2_champagner.png",
   "bg_image_primary": "",
   "main_menu": [
@@ -41,11 +41,11 @@
       "url": "https://www.tanney.de/impressum"
     }
   ],
-  "logo_dark": "/images/logo_üdt_2_silber.png",
+  "logo_dark": "",
   "footer_text": "",
-  "bg_image_product": "/images/logo_üdt_2_champagner.png",
-  "favicon": "/images/logo_üdt_2_champagner.png",
-  "bg_image_secondary": "/images/logo_üdt_2_champagner.png",
+  "bg_image_product": "",
+  "favicon": "",
+  "bg_image_secondary": "",
   "palettes": {
     "green": {
       "type": "palette",
@@ -65,6 +65,6 @@
     }
   },
   "title": "Tanney",
-  "palette": null,
+  "palette": "green",
   "snipcart_api_key": ""
 }
