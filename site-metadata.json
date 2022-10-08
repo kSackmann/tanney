@@ -37,14 +37,14 @@
     {
       "style": "primary",
       "type": "action",
-      "url": "https://www.tanney.de/dasteam",
+      "url": "https://www.tanney.de/das-team",
       "title": "Das Team"
     },
     {
       "style": "primary",
       "type": "action",
       "title": "Das Geheimnis",
-      "url": "https://www.tanney.de/geheimnis"
+      "url": "https://www.tanney.de/das-geheimnis"
     }
   ],
   "logo_dark": "",
