@@ -1,13 +1,7 @@
 ---
 title: Das Team
-white_header: true
+white_header: false
 sections:
-  - type: hero_section
-    background_image: /images/header1.jpg
-    content: ""
-    background_image_opacity: 10
-  - type: featured_categories_section
-    title: ""
   - type: bulletpoints_section
     bulletpoints:
       - title: Kathrin
