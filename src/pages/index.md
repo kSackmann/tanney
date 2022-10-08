@@ -18,7 +18,7 @@ sections:
 
       Leckerer Sirup aus Tannenspitzen.
 
-      ![]()
+      ![](/images/tanney_opaque_s.png)
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
