@@ -15,9 +15,8 @@ sections:
       - title: Tannenspitzensirup begeistert
         description: >-
           > Jan und Lucas, die Tannenspitzensirup noch nie gekostet hatten,
-          waren von dem aromatischen Naturprodukt begeistert. Und schon war die
-          Idee geboren, dieses Wissen, um die Köstlichkeiten des regionalen
-          Produkts, nicht in Vergessenheit geraten zu lassen.
+          waren von dem aromatischen Naturprodukt begeistert. Und schon war der
+          Plan gefasst, dieses Produkt wieder groß rauszubringen.
 
           >
 
