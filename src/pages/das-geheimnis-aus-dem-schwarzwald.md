@@ -12,9 +12,11 @@ sections:
           Alles begann mit einem kleinen Glas aromatischen Tannensirup, mit dem Kathrin eines Tages Jan und Lucas beim Kochen überraschte, nachdem Sie im Schwarzwald fleißig Baumwipfel eingekocht hatte. Schon vor einigen Jahren wollte KathrinGroßmutters Rezept nachkochen. Selbst im Schwarzwald weiß kaum jemand mehr um das Geheimnis. Dabei steckt so viel in diesem wertvollen Naturprodukt.
         title: ""
         image: /images/ernte.jpg
-      - title: Tannenspitzensirup begeistert
+      - title: ""
         description: >-
-          
+          > ## Tannenspitzensirup begeistert
+
+          >
 
           > Jan und Lucas, die Tannenspitzensirup noch nie gekostet hatten, waren von dem aromatischen Naturprodukt begeistert. Und schon war die Idee geboren, dieses Wissen, um die Köstlichkeiten des regionalen Produkts, nicht in Vergessenheit geraten zu lassen.
 
