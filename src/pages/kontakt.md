@@ -1,9 +1,9 @@
 ---
 title: Kontakt
-white_header: true
+white_header: false
 sections:
   - type: header_section
-    headline: Kontaktmöglichkeit
+    headline: Fragen oder Wünsche? Schreib einfach an sunney@tanney.de
     background_image: ""
 template: advanced
 ---
