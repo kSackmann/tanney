@@ -2,16 +2,6 @@
 title: Produkte
 white_header: true
 sections:
-  - type: hero_section
-    section_id: Aktuelles
-    content: ""
-    background_image: /images/header1.jpg
-    background_image_opacity: 10
-    actions:
-      - style: primary
-        type: action
-        title: Kontakt
-        url: https://www.tanney.de/kontakt/
   - type: bulletpoints_section
     section_id: Unsere Produkte sind doppelt Spitze
     bulletpoints:
