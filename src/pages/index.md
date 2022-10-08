@@ -7,7 +7,7 @@ sections:
     background_image: /images/header1.jpg
     background_image_opacity: 10
     content: |-
-      ![]()
+      ![](/images/tanney_opaque.png)
 
       # Tanney
 
@@ -20,7 +20,7 @@ sections:
 
       Leckerer Sirup aus Tannenspitzen.
 
-      ![](/images/tanney_opaque.png)
+      ![]()
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
