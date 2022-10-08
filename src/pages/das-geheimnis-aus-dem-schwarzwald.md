@@ -1,5 +1,5 @@
 ---
-title: Das Geheimnis aus dem Schwarzwald
+title: Das Geheimnis
 white_header: true
 sections:
   - type: hero_section
