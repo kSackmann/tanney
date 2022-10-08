@@ -30,15 +30,5 @@ sections:
 
           ![](/images/nature-3246364_1920.jpg)
         image: ""
-      - title: Lokale Rüben
-        description: >-
-          Unseren Rübenzucker beziehen wir von einem lokalen Produzenten mit
-          regionalem Anbau. Damit sind kurze Transportwege und heimische
-          Produktion garantiert sowie zunehmende Landgewinnung für Anbauflächen
-          in tropischen Ländern für Zuckerrohr ausgeschlossen.
-
-
-
-          **Zu guter Letzt steckt in all unseren Produkten echte Handarbeit und die Leidenschaft für ein hochwertiges Naturprodukt.**
 template: advanced
 ---
