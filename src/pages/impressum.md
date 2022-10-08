@@ -21,15 +21,14 @@ sections:
 
 
       Vertretungsberechtigte 
-
-      Jan Kroner und Kathrin Sackmann
-
+       Kathrin Sackmann
 
       Kontakt
 
-      Telefon 0159 02160070
 
-      E-Mail Sunney@Tanney.deHaftungsausschluss
+      E-Mail Sunney@Tanney.de
+
+
 
 
       ## Haftung für Inhalte
