@@ -6,21 +6,21 @@
     {
       "style": "primary",
       "type": "action",
-      "title": "Produkte",
+      "title": "Zutaten",
       "url": "https://www.tanney.de/produkte",
       "arrow": false
     },
     {
       "style": "primary",
       "type": "action",
-      "title": "Das Geheimnis",
+      "title": "Geheimnis",
       "url": "https://www.tanney.de/das-geheimnis-aus-dem-schwarzwald"
     },
     {
       "style": "primary",
       "type": "action",
       "url": "https://www.tanney.de/das-team",
-      "title": "Das Team"
+      "title": "Team"
     },
     {
       "style": "primary",
