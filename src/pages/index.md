@@ -33,7 +33,7 @@ sections:
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
-        url: /das-geheimnis
+        url: /das-geheimnis-aus-dem-schwarzwald
         style: primary
         arrow: true
   - type: testimonials_section
