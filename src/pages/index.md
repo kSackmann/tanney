@@ -7,18 +7,16 @@ sections:
     background_image: /images/header1.jpg
     background_image_opacity: 10
     content: |-
-      ![](/images/tanney_opaque.png)
+      # \- Better than honey -
 
-      ## \- Better than honey -
-
-      ## \- worth the money -
+      # \- worth the money -
 
       <br>
       <br>
 
-      Leckerer Sirup aus Tannenspitzen.
+      ## Leckerer Sirup aus Tannenspitzen.
 
-      ![](/images/tanney_opaque_s.png)
+      ![]()
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
