@@ -6,15 +6,15 @@
     {
       "style": "primary",
       "type": "action",
-      "title": "Zutaten",
-      "url": "https://www.tanney.de/produkte",
-      "arrow": false
+      "title": "Geheimnis",
+      "url": "https://www.tanney.de/das-geheimnis-aus-dem-schwarzwald"
     },
     {
       "style": "primary",
       "type": "action",
-      "title": "Geheimnis",
-      "url": "https://www.tanney.de/das-geheimnis-aus-dem-schwarzwald"
+      "title": "Zutaten",
+      "url": "https://www.tanney.de/produkte",
+      "arrow": false
     },
     {
       "style": "primary",
