@@ -20,7 +20,7 @@ sections:
     actions:
       - type: action
         title: Das Geheimnis aus dem Schwarzwald
-        url: /produkte
+        url: /das-geheimnis
         style: primary
         arrow: true
   - type: testimonials_section
