@@ -38,7 +38,7 @@ sections:
         author:
           name: Gertraud
           location: "2022"
-      - text: Cool und unterstützenswert!
+      - text: '"Cool und unterstützenswert!"'
         author:
           name: Fabia Shesherl
           location: "2022"
