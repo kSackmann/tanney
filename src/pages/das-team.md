@@ -1,5 +1,5 @@
 ---
-title: Das Team
+title: Team
 white_header: false
 sections:
   - type: bulletpoints_section
