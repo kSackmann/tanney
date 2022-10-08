@@ -13,6 +13,18 @@
     {
       "style": "primary",
       "type": "action",
+      "title": "Das Geheimnis",
+      "url": "https://www.tanney.de/das-geheimnis"
+    },
+    {
+      "style": "primary",
+      "type": "action",
+      "url": "https://www.tanney.de/das-team",
+      "title": "Das Team"
+    },
+    {
+      "style": "primary",
+      "type": "action",
       "title": "Rezepte",
       "url": "https://www.tanney.de/rezepte"
     },
@@ -33,18 +45,6 @@
       "type": "action",
       "title": "Impressum",
       "url": "https://www.tanney.de/impressum"
-    },
-    {
-      "style": "primary",
-      "type": "action",
-      "url": "https://www.tanney.de/das-team",
-      "title": "Das Team"
-    },
-    {
-      "style": "primary",
-      "type": "action",
-      "title": "Das Geheimnis",
-      "url": "https://www.tanney.de/das-geheimnis"
     }
   ],
   "logo_dark": "",
