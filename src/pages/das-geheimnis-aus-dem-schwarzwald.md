@@ -4,10 +4,10 @@ white_header: false
 sections:
   - type: bulletpoints_section
     bulletpoints:
-      - description: Alles begann mit einem kleinen Glas aromatischen Tannensirup, mit
-          dem Kathrin eines Tages Jan und Lucas beim Kochen überraschte, nachdem
-          Sie im Schwarzwald fleißig Baumwipfel eingekocht hatte. Schon vor
-          einigen Jahren wollte KathrinGroßmutters Rezept nachkochen. Selbst im
+      - description: Alles begann mit einem kleinen Glas Tannensirup, das Kathrin nach
+          einer Wanderung im Schwarzwald eingekocht hatte und zum Brunch zu
+          Lucas und Jan brachte. Schon vor einigen Jahren wollte Kathrin
+          Großmutters Rezept nachkochen und 2019 war es soweit. Selbst im
           Schwarzwald weiß kaum jemand mehr um das Geheimnis. Dabei steckt so
           viel in diesem wertvollen Naturprodukt.
         title: Tannenspitzensirup – der fast vergessene Schatz
