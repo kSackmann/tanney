@@ -23,13 +23,13 @@ sections:
       - description: >-
           
 
-          > Kathrin's Cousin betreibt mit viel Liebe und Arbeit und unterstützt von der Familie einen kleinen Schwarzwaldbauerhof und erhält so die alte Tradition der Familie, pflegt die Landschaft und erhält den Schwarzwald. In einem kleinen Waldstück - wo sich junger Tannen- und Fichtenwildanflug ausbreitet fanden wir dann unser Erntegebiet.
+          > Kathrin's Cousin betreibt mit viel Liebe und unterstützt von der Familie einen kleinen Schwarzwaldbauerhof und erhält so die alte Tradition der Familie, pflegt die Landschaft und erhält den Schwarzwald. In einem kleinen Waldstück - wo sich junger Tannen- und Fichtenwildanflug ausbreitet fanden wir dann unser Erntegebiet.
 
 
 
 
           2021 haben Lucas und Kathrin die ersten Tannwipfel geerntet und in 70 goldige Gläser Glück umgewandelt!
-        title: So fallen die Puzzelteile zusammen
+        title: ""
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
 template: advanced
 ---
