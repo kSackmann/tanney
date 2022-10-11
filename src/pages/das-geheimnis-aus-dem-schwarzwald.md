@@ -4,12 +4,10 @@ white_header: false
 sections:
   - type: bulletpoints_section
     bulletpoints:
-      - description: Alles begann mit einem kleinen Glas Tannensirup, das Kathrin nach
-          einer Wanderung im Schwarzwald eingekocht hatte und zum Brunch zu
-          Lucas und Jan brachte. Schon vor einigen Jahren wollte Kathrin
-          Großmutters Rezept nachkochen und 2019 war es soweit. Selbst im
-          Schwarzwald weiß kaum jemand mehr um das Geheimnis. Dabei steckt so
-          viel in diesem wertvollen Naturprodukt.
+      - description: Alles begann mit einem Glas Tannensirup.... Schon vor einigen
+          Jahren wollte Kathrin Großmutters Rezept nachkochen und 2019 war es
+          dann soweit. Selbst im Schwarzwald weiß kaum jemand mehr um das
+          Geheimnis. Dabei steckt so viel in diesem wertvollen Naturprodukt.
         title: Tannenspitzensirup – der fast vergessene Schatz
         image: /images/ernte.jpg
       - title: Tannenspitzensirup begeistert
@@ -20,7 +18,18 @@ sections:
 
           >
 
-          > 2021 war es dann soweit und unsere ersten Tannwipfel wurden geerntet und in 70 goldige Gläser Glück umgewandelt!
+          >
         image: /images/produkt-1-.jpg
+      - description: >-
+          
+
+          > Kathrin's Cousin betreibt mit viel Liebe und Arbeit und unterstützt von der Familie einen kleinen Schwarzwaldbauerhof und erhält so die alte Tradition der Familie, pflegt die Landschaft und erhält den Schwarzwald. In einem kleinen Waldstück - wo sich junger Tannen- und Fichtenwildanflug ausbreitet fanden wir dann unser Erntegebiet.
+
+
+
+
+          2021 haben Lucas und Kathrin die ersten Tannwipfel geerntet und in 70 goldige Gläser Glück umgewandelt!
+        title: So fallen die Puzzelteile zusammen
+        image: /images/signal-2022-05-15-08-24-11-295-3.jpg
 template: advanced
 ---
