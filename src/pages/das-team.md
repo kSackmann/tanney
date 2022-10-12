@@ -4,7 +4,8 @@ white_header: false
 sections:
   - type: bulletpoints_section
     bulletpoints:
-      - title: Die Hauptverdächtigen - immer unterstützt von tollen Freunden
+      - title: Die Hauptverdächtigen
+        description: \- immer unterstützt von tollen Freunden -
       - title: Kathrin
         description: |-
           **Kreativwerkstatt, Fröhlich, Verrückt**
