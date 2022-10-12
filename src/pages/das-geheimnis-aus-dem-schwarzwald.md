@@ -10,7 +10,7 @@ sections:
           ihrer besten Freundin Nathalie nachkochen. Schon früher war der
           "Oma-Honig" für die beiden ein absolutes Highlight. Im Frühling 2019
           zogen die beiden dann durch den Wald und ernteten die ersten Triebe
-          nach Rezept von Nathalies Großmutter.
+          nach dem Rezept von Nathalies Großmutter.
         title: Wie alles begann...
         image: /images/ernte.jpg
       - title: Tannenspitzensirup begeistert
