@@ -8,7 +8,7 @@ sections:
         description: \- immer unterstützt von tollen Freunden -
       - title: Kathrin
         description: |-
-          **Kreativwerkstatt, Fröhlich, Visionär**
+          **Kreativwerkstatt, Visionär, Fröhlich**
 
           \- Tanney: Better than honey - worth the money! -
         image: /images/1016565_936735949689791_7040246460474904409_n.jpg
