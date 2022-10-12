@@ -14,7 +14,7 @@ sections:
         image: /images/1016565_936735949689791_7040246460474904409_n.jpg
       - title: Nathalie
         description: |-
-          **Sunishe, Supporter, Superwoman**
+          **Sunshine, Supporter, Superwoman**
 
           \- Oma Honig - Neu verklebt! -
         image: /images/signal-2022-10-07-194610_002.jpeg
