@@ -24,18 +24,18 @@ sections:
           Aber wie? Website? Labels? Und wie kann man viele Tannenwipfel ernten, ohne dem Ökosystem oder den Waldbesitzern zu schaden?
         image: /images/nuns-2304009_1920.jpg
       - description: >-
-          > Kathrin's Cousin betreibt mit viel Liebe und unterstützt von der
-          Familie einen kleinen Schwarzwaldbauerhof mit Waldgebiet. Er erhält so
-          die alte Tradition des Hofs, arbeitet mit den Tieren und erhält die
-          Kulturlandschaft - im Wald und auf dem Feld-.
+          > Kathrin's Cousin betreibt mit viel Liebe - und unterstützt von der
+          Familie - einen kleinen Schwarzwaldbauerhof mit Waldgebiet. Er erhält
+          so die alte Tradition des Hofs und erhält die Kulturlandschaft - im
+          Wald und auf dem Feld-.
 
           >
 
-          > Eine Arbeit die viel Einsatz fordert und viel zu wenig gewertschätzt wird! 
+          > Eine Arbeit die viel Einsatz fordert und an dieser Stelle einen riesen Applaus verdient.
 
           >
 
-          > In einem kleinen Waldstück das zum Hof gehört fanden wir dann unser Erntegebiet. Das Waldstück besteht Fichten und Tannen aus Wildanflug, der nicht forstwirtschaftlich genutzt werden soll. Außer den Rehen -die die kleinen Wipfel auch besonders lecker finden, aber auch vor Ort ein Überangebot an Nahrung haben- nehmen wir so niemandem etwas weg.
+          > In einem kleinen Waldstück das zum Hof gehört fanden wir dann unser Erntegebiet.
         title: Ernten - aber nachhaltig!
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
       - description: 2021 haben wir die ersten Tannwipfel geerntet und mit Hilfe von
