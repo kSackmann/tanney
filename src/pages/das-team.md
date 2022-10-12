@@ -8,7 +8,7 @@ sections:
         description: \- immer unterstützt von tollen Freunden -
       - title: Kathrin
         description: |-
-          **Kreativwerkstatt, Visionär, Fröhlich**
+          **Kreativwerkstatt, Kick-Starter, Fröhlich**
 
           \- Tanney: Better than honey - worth the money! -
         image: /images/1016565_936735949689791_7040246460474904409_n.jpg
@@ -26,7 +26,7 @@ sections:
         image: /images/signal-2022-10-07-194610_002.jpeg
       - title: Jan
         description: |-
-          **Energiebündel, Inspirationsquelle, Kick-Starter**
+          **Energiebündel, Inspirationsquelle, Visionär**
 
           \- Don´t worry, be tanney -
         image: /images/bild1.jpg
