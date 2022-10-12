@@ -21,7 +21,10 @@ sections:
           Produkt wieder groß rauszubringen. 
 
 
-          Aber wie? Website? Labels? Und wie kann man viele Tannenwipfel ernten, ohne dem Ökosystem oder den Waldbesitzern zu schaden?
+          Aber wie?  Website?  Labels?  
+
+
+          Und wie kann man viele Tannenwipfel ernten, ohne dem Ökosystem oder den Waldbesitzern zu schaden?
         image: /images/nuns-2304009_1920.jpg
       - description: >-
           > Kathrin's Cousin betreibt mit viel Liebe - und unterstützt von der
