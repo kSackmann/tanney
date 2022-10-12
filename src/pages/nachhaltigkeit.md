@@ -7,7 +7,8 @@ sections:
       wir bei der Ernte der zarten Tannenwipfel stets auf einen schonenden und
       achtsamen Umgang mit dem Waldbestand. Wir ernten nur Wipfel die mindestens
       drei Reihen unter der Baumkrone wachsen. Wir streben nach einem
-      klimaneutralem Handeln. Dazu ist unser Verpackungsmaterial zu 100%
+      klimaneutralem Handeln und möchten bei Einnahmen einen Teil der Einnahmen
+      an das Bergwaldprojekt e.V. spenden. Unsere Verpackung ist zu 100%
       recyclingfähig.
     headline: Unser (T)Anspruch
     background_image: ""
