@@ -30,5 +30,9 @@ sections:
 
           ![]()
         image: /images/nature-3246364_1920.jpg
+      - title: Weitere Zutaten?
+        description: Das war noch nicht alles - wenn du auch wissen möchtest, was sonst
+          noch in einen originalen Tanney gehört, komm mit uns Ende Mai ernten
+          und lerne dabei über das Ökosystem Schwarzwald.
 template: advanced
 ---
