@@ -30,5 +30,11 @@ sections:
 
           \- Don´t worry, be tanney -
         image: /images/bild1.jpg
+      - title: Nathalie
+        description: |-
+          **Sunishe, supporter und seit 20 Jahren immer dabei**
+
+          \- Oma Honig neu gemacht! -
+        image: /images/signal-2022-10-07-194610_002.jpeg
 template: advanced
 ---
