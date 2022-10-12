@@ -4,12 +4,13 @@ white_header: false
 sections:
   - type: bulletpoints_section
     bulletpoints:
+      - title: Tannenspitzensirup – der fast vergessene Schatz
       - description: Schon vor einigen Jahren wollte Kathrin das Rezept der Großmutter
           ihrer besten Freundin Nathalie nachkochen. Schon früher war der
           "Oma-Honig" für die beiden ein absolutes Highlight beim Frühstück und
           im Tee. Im Frühling 2019 zogen die beiden dann durch den Wald und
           ernteten die ersten Triebe nach Rezept von Nathalies Großmutter.
-        title: Tannenspitzensirup – der fast vergessene Schatz
+        title: Wie alles begann...
         image: /images/ernte.jpg
       - title: Tannenspitzensirup begeistert
         description: >-
