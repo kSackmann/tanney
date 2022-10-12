@@ -25,7 +25,7 @@ sections:
 
 
           Und wie kann man viele Tannenwipfel ernten, ohne dem Ökosystem oder den Waldbesitzern zu schaden?
-        image: /images/nuns-2304009_1920.jpg
+        image: ""
       - description: >-
           > Kathrin's Cousin betreibt mit viel Liebe - und unterstützt von der
           Familie - einen kleinen Schwarzwaldbauerhof mit Waldgebiet. Er erhält
@@ -49,6 +49,6 @@ sections:
 
           Seiter wird Tanney fleissig veschenkt und verteilt.
         title: Tanney für alle
-        image: /images/produkt-2-.jpg
+        image: /images/20221012_115910.jpg
 template: advanced
 ---
