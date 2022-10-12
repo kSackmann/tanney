@@ -23,7 +23,7 @@ sections:
           **Entertainer, Brandlöscher, immer dabei**
 
           \- Tanney: Makes me fast and runney -
-        image: /images/signal-2022-05-15-08-24-00-003-10.jpg
+        image: /images/us.jpg
       - title: Jan
         description: |-
           **Energiebündel, Inspirationsquelle, Kreativwerkstatt**
