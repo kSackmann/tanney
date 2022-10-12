@@ -7,7 +7,7 @@ sections:
       - title: Die Hauptverdächtigen - immer unterstützt von tollen Freunden
       - title: Kathrin
         description: |-
-          **Fröhlich, Verrückt, Kreativwerkstatt**
+          **Kreativwerkstatt, Fröhlich, Verrückt**
 
           \- Tanney: Better than honey - worth the money! -
         image: /images/1016565_936735949689791_7040246460474904409_n.jpg
