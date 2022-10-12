@@ -8,7 +8,7 @@ sections:
           Alles begann mit einem Glas Tannensirup.... 
 
 
-          Schon vor einigen Jahren wollte Kathrin das Rezept der Großmutter ihrer besten Freundin Nathalie nachkochen. Schon früher war der "Oma-Honig" für die beiden ein absolutes Highlight beim Frühstück und im Tee. Im Frühling 2019 war es dann soweit: Nathalie und Kathrin zogen durch den Wlad und ernteten die ersten Triebe.
+          Schon vor einigen Jahren wollte Kathrin das Rezept der Großmutter ihrer besten Freundin Nathalie nachkochen. Schon früher war der "Oma-Honig" für die beiden ein absolutes Highlight beim Frühstück und im Tee. Im Frühling 2019 war es dann soweit: Nathalie und Kathrin zogen durch den Wlad und ernteten die ersten Triebe und alles, was sonst noch in den Spirup gehört, nach Rezept von Nathalies Großmutter.
         title: Tannenspitzensirup – der fast vergessene Schatz
         image: /images/ernte.jpg
       - title: Tannenspitzensirup begeistert
