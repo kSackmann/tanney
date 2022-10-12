@@ -4,7 +4,8 @@ white_header: false
 sections:
   - type: bulletpoints_section
     bulletpoints:
-      - title: Tannenspitzensirup – der fast vergessene Schatz
+      - title: "Tannenspitzensirup "
+        description: – der fast vergessene Schatz -
       - description: Schon vor einigen Jahren wollte Kathrin das Rezept der Großmutter
           ihrer besten Freundin Nathalie nachkochen. Schon früher war der
           "Oma-Honig" für die beiden ein absolutes Highlight beim Frühstück und
@@ -38,9 +39,9 @@ sections:
         title: Ernten - aber nachhaltig!
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
       - description: 2021 haben wir die ersten Tannwipfel geerntet und mit Hilfe von
-          Kathrins Onkel viele Tannen-und Fichtenwipfel, Frauenmantel,
-          Spitzwegerich und Klee in 70 Gläser goldenes Glück umgewandelt!
-        title: Ernten - Einkochen - Labels
+          Kathrins Onkel viele Tannen-und Fichtenwipfel und die anderen geheimen
+          Zutaten in 70 Gläser goldenes Glück umgewandelt!
+        title: Die erste Charge ist da!
         image: /images/produkt-2-.jpg
 template: advanced
 ---
