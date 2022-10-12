@@ -38,10 +38,14 @@ sections:
           > In einem kleinen Waldstück das zum Hof gehört fanden wir dann unser Erntegebiet.
         title: Ernten - aber nachhaltig!
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
-      - description: 2021 haben wir die ersten Tannwipfel geerntet und mit Hilfe von
+      - description: >-
+          2021 haben wir die ersten Tannwipfel geerntet und mit Hilfe von
           Kathrins Onkel viele Tannen-und Fichtenwipfel und die anderen geheimen
           Zutaten in 70 Gläser goldenes Glück umgewandelt!
-        title: Die erste Charge ist da!
+
+
+          Seiter wird Tanney fleissig veschenkt und verteilt.
+        title: Tanney für alle
         image: /images/produkt-2-.jpg
 template: advanced
 ---
