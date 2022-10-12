@@ -28,7 +28,7 @@ sections:
           Wirkung bereits fester Bestandteil von Hustensäften.
 
 
-          ![](/images/nature-3246364_1920.jpg)
-        image: ""
+          ![]()
+        image: /images/nature-3246364_1920.jpg
 template: advanced
 ---
