@@ -1,5 +1,5 @@
 ---
-title: Secret Story
+title: Tanney
 white_header: false
 sections:
   - type: bulletpoints_section
