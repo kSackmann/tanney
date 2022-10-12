@@ -26,9 +26,7 @@ sections:
         image: /images/signal-2022-10-07-194610_002.jpeg
       - title: Jan
         description: |-
-          **Energiebündel, Inspirationsquelle, Kreativwerkstatt**
-
-
+          **Energiebündel, Inspirationsquelle, Kick-Starter**
 
           \- Don´t worry, be tanney -
         image: /images/bild1.jpg
