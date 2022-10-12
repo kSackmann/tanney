@@ -5,9 +5,9 @@ sections:
   - type: bulletpoints_section
     section_id: Unsere Produkte sind doppelt Spitze
     bulletpoints:
-      - title: Grundzutaten
-        description: "# Wir verwenden gute Zutaten und lassen weg, was nicht
+      - title: "Grundzutaten - # Wir verwenden gute Zutaten und lassen weg, was nicht
           hineingehört - weil der Geschmack entscheidet."
+        description: ""
         image: ""
       - title: "Tannentrieb: Einsame Tannen-Spitze"
         description: >
