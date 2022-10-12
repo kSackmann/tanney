@@ -42,7 +42,7 @@ sections:
         title: Ernten - aber nachhaltig!
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
       - description: >-
-          2021 haben wir die ersten Tannwipfel geerntet und mit Hilfe von
+          2021 haben wir zum zweiten Mal Tannwipfel geerntet und mit Hilfe von
           Kathrins Onkel viele Tannen-und Fichtenwipfel und die anderen geheimen
           Zutaten in 70 Gläser goldenes Glück umgewandelt!
 
