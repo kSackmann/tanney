@@ -1,6 +1,6 @@
 ---
 title: Rezepte
-white_header: true
+white_header: false
 sections:
   - type: bulletpoints_section
     section_id: Rezepte
