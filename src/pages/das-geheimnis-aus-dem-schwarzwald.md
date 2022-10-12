@@ -29,15 +29,17 @@ sections:
 
           >
 
-          > Eine Arbeit die viel EInsatz fordert und viel zu wenig gewertschätzt wird! 
+          > Eine Arbeit die viel Einsatz fordert und viel zu wenig gewertschätzt wird! 
 
           >
 
-          > In einem kleinen Waldstück, das zum Hof gehört fanden wir dann unser Erntegebiet. Das Waldstück besteht Fichten und Tannen aus Wildanflug, der nicht forstwirtschaftlich genutzt werden soll. Außer den Rehen -die die kleinen Wipfel auch besonders lecker finden- nehemen wir so niemandem etwas weg.
-
-
-          2021 haben wir die ersten Tannwipfel geerntet und in 70 Gläser goldenes Glück umgewandelt!
+          > In einem kleinen Waldstück das zum Hof gehört fanden wir dann unser Erntegebiet. Das Waldstück besteht Fichten und Tannen aus Wildanflug, der nicht forstwirtschaftlich genutzt werden soll. Außer den Rehen -die die kleinen Wipfel auch besonders lecker finden, aber auch vor Ort ein Überangebot an Nahrung haben- nehmen wir so niemandem etwas weg.
         title: Ernten - aber nachhaltig!
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
+      - description: 2021 haben wir die ersten Tannwipfel geerntet und mit Hilfe von
+          Kathrins Onkel uns dessen Küche in 70 Gläser goldenes Glück
+          umgewandelt!
+        title: Ernten - Einkochen - Labels
+        image: /images/produkt-2-.jpg
 template: advanced
 ---
