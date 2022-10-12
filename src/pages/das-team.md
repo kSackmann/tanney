@@ -4,9 +4,10 @@ white_header: false
 sections:
   - type: bulletpoints_section
     bulletpoints:
+      - title: Die Hauptverdächtigen - immer unterstützt von tollen Freunden
       - title: Kathrin
         description: |-
-          **Fröhlich,Verrückt, Kreativ**
+          **Fröhlich, Verrückt, Kreativ**
 
           \- Tanney: Better than honey - worth the money! -
         image: /images/1016565_936735949689791_7040246460474904409_n.jpg
@@ -18,7 +19,7 @@ sections:
         image: /images/signal-2022-10-07-194610_002.jpeg
       - title: Lucas
         description: |-
-          **Entertainer, Pot-Hole fixer und immer dabei**
+          **Entertainer, Brandlöscher und immer dabei**
 
           \- Tanney: Makes me fast and runney -
         image: /images/signal-2022-05-15-08-24-00-003-10.jpg
