@@ -7,19 +7,19 @@ sections:
       - title: Die Hauptverdächtigen - immer unterstützt von tollen Freunden
       - title: Kathrin
         description: |-
-          **Fröhlich, Verrückt, Kreativ**
+          **Fröhlich, Verrückt, Kreativwerkstatt**
 
           \- Tanney: Better than honey - worth the money! -
         image: /images/1016565_936735949689791_7040246460474904409_n.jpg
       - title: Nathalie
         description: |-
-          **Sunishe, Supporter und seit 20 Jahren immer dabei**
+          **Sunishe, Supporter, Superwoman**
 
           \- Oma Honig - Neu verklebt! -
         image: /images/signal-2022-10-07-194610_002.jpeg
       - title: Lucas
         description: |-
-          **Entertainer, Brandlöscher und immer dabei**
+          **Entertainer, Brandlöscher, immer dabei**
 
           \- Tanney: Makes me fast and runney -
         image: /images/signal-2022-05-15-08-24-00-003-10.jpg
