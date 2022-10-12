@@ -17,8 +17,10 @@ sections:
         description: >-
           Kathrin brachte den leckeren Sirup nach Würzburg, wo Lucas und Jan,
           die Tannenspitzensirup noch nie gekostet hatten, von dem aromatischen
-          Naturprodukt begeistert waren. Und schon war der Plan gefasst, dieses
-          Produkt wieder groß rauszubringen. 
+          Naturprodukt begeistert waren. 
+
+
+          Schon war der Plan gefasst, dieses Produkt wieder groß rauszubringen. 
 
 
           Aber wie?  Website?  Labels?  
