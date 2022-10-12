@@ -5,6 +5,13 @@ sections:
   - type: bulletpoints_section
     section_id: Rezepte
     bulletpoints:
+      - title: Rezeptideen für Tanney
+        description: >-
+          Tanney schmeckt besonders gut in Getränken,  für Salatdressings, in
+          Müsli und als Aufstrich
+
+
+          Deiner Phantasie sind keine Grenzen gesetzt!
       - title: Salatdressing mit Tanney
         description: |-
           Eisberg- oder Kopfsalat
@@ -35,6 +42,7 @@ sections:
 
           Lecker und gut bei Halsschmerzen oder Husten.
         image: /images/20221012_115640.jpg
+      - {}
   - type: featured_products_section
     title: Rezepte
     icon: true
