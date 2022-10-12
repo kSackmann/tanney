@@ -1,5 +1,5 @@
 ---
-title: Das Geheimnis
+title: Secret Story
 white_header: false
 sections:
   - type: bulletpoints_section
