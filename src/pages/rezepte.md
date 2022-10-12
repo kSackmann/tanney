@@ -43,11 +43,5 @@ sections:
           Lecker und gut bei Halsschmerzen oder Husten.
         image: /images/20221012_115640.jpg
       - {}
-  - type: featured_products_section
-    title: Rezepte
-    icon: true
-    featured_products:
-      - src/pages/products/tanney.md
-  - type: faq_section
 template: advanced
 ---
