@@ -37,8 +37,8 @@ sections:
         title: Ernten - aber nachhaltig!
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
       - description: 2021 haben wir die ersten Tannwipfel geerntet und mit Hilfe von
-          Kathrins Onkel uns dessen Küche in 70 Gläser goldenes Glück
-          umgewandelt!
+          Kathrins Onkel viele Tannen-und Fichtenwipfel, Frauenmantel,
+          Spitzwegerich und Klee in 70 Gläser goldenes Glück umgewandelt!
         title: Ernten - Einkochen - Labels
         image: /images/produkt-2-.jpg
 template: advanced
