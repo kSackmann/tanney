@@ -4,11 +4,11 @@ white_header: false
 sections:
   - type: bulletpoints_section
     bulletpoints:
-      - description: >-
-          Alles begann mit einem Glas Tannensirup.... 
-
-
-          Schon vor einigen Jahren wollte Kathrin das Rezept der Großmutter ihrer besten Freundin Nathalie nachkochen. Schon früher war der "Oma-Honig" für die beiden ein absolutes Highlight beim Frühstück und im Tee. Im Frühling 2019 war es dann soweit: Nathalie und Kathrin zogen durch den Wlad und ernteten die ersten Triebe und alles, was sonst noch in den Spirup gehört, nach Rezept von Nathalies Großmutter.
+      - description: Schon vor einigen Jahren wollte Kathrin das Rezept der Großmutter
+          ihrer besten Freundin Nathalie nachkochen. Schon früher war der
+          "Oma-Honig" für die beiden ein absolutes Highlight beim Frühstück und
+          im Tee. Im Frühling 2019 zogen die beiden dann durch den Wald und
+          ernteten die ersten Triebe nach Rezept von Nathalies Großmutter.
         title: Tannenspitzensirup – der fast vergessene Schatz
         image: /images/ernte.jpg
       - title: Tannenspitzensirup begeistert
@@ -19,7 +19,7 @@ sections:
           Produkt wieder groß rauszubringen. 
 
 
-          Aber wie? Website? Labels? Und wie kann man viele Tannenwipfel ernten, ohne den Bäumen, dem Ökosystem oder den Waldbesitzern zu schaden?
+          Aber wie? Website? Labels? Und wie kann man viele Tannenwipfel ernten, ohne dem Ökosystem oder den Waldbesitzern zu schaden?
         image: /images/nuns-2304009_1920.jpg
       - description: >-
           > Kathrin's Cousin betreibt mit viel Liebe und unterstützt von der
