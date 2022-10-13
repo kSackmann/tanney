@@ -26,10 +26,10 @@ sections:
   - type: testimonials_section
     section_id: testimonials_section
     testimonials:
-      - text: '"Ein Saunaaufguss im Mund!"'
+      - text: ""
         author:
-          name: Nico
-          location: "2022"
+          name: ""
+          location: ""
       - text: '"Das neue schwarze Gold!"'
         author:
           name: Tiemanotti
@@ -42,5 +42,9 @@ sections:
         author:
           name: Fabia Shesherl
           location: "2022"
+      - author:
+          name: Nico
+          location: "2022"
+        text: '"Ein Saunaaufguss im Mund!"'
 template: home
 ---
