@@ -1,5 +1,5 @@
 ---
-title: Home
+title: "Tanney "
 white_header: false
 sections:
   - type: hero_section
