@@ -25,11 +25,11 @@ sections:
 
           3EL Öl
 
-          Salz, Pfeffer
-
           1/2 Zwiebel- gewürfelt
 
           2 TL Tanney
+
+          Salz, Pfeffer
         image: /images/20221012_115607.jpg
       - title: Tannüsli - Guter Start in den Tag
         description: |-
@@ -40,6 +40,8 @@ sections:
           Joghurt  
 
           2 TL Tanney
+
+          Zitronenabrieb
         image: /images/20221012_114007.jpg
       - title: Tee - anny
         description: |-
