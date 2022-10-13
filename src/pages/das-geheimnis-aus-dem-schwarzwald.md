@@ -45,7 +45,7 @@ sections:
           2021 war es soweit! 
 
 
-          Label und Website Prototypen sind gemacht und die Wipfel haben mit Hilfe von Kathrins Onkel in seiner kleinen Schwarzwaldküche in 70 Gläser goldenes Glück umgewandelt!
+          Label und Website Prototypen sind gemacht und die Wipfel haben wir, mit Hilfe von Kathrins Onkel, in 70 Gläser goldenes Glück umgewandelt!
 
 
           Seither wird Tanney fleissig veschenkt und verteilt.
