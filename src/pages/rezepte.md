@@ -27,17 +27,17 @@ sections:
 
           Salz, Pfeffer
 
-          halbe Zwiebel in kleinen Würfeln
+          1/2 Zwiebel- gewürfelt
 
           2 TL Tanney
         image: /images/20221012_115607.jpg
       - title: Tannüsli - Guter Start in den Tag
         description: |-
-          Müsli deiner Wahl
+          Müsli 
 
-          Früchte deiner Wahl
+          Früchte 
 
-          Yoghurt Skyr oder Milch 
+          Joghurt  
 
           2 TL Tanney
         image: /images/20221012_114007.jpg
