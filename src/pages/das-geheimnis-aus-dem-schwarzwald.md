@@ -42,9 +42,9 @@ sections:
         title: Ernten - aber nachhaltig!
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
       - description: >-
-          2021 haben dann gemeinsam geerntet und mit Hilfe von Kathrins Onkel
-          viele Tannen-und Fichtenwipfel in 70 Gläser goldenes Glück
-          umgewandelt!
+          2021 war es soweit! Label und Website haben Prototypen und wir haben
+          mit Hilfe von Kathrins Onkel in seiner kleinen Schwarzwaldküche unsere
+          Tannen-und Fichtenwipfel in 70 Gläser goldenes Glück umgewandelt!
 
 
           Seither wird Tanney fleissig veschenkt und verteilt.
