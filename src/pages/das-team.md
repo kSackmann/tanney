@@ -22,13 +22,13 @@ sections:
         description: |-
           **Sunshine, Supporter, Superwoman**
 
-          \- Oma Honig - Neu verklebt! -
+          \-  Tanney: Oma Honig - Neu verklebt! -
         image: /images/signal-2022-10-07-194610_002.jpeg
       - title: Jan
         description: |-
           **Energiebündel, Inspirationsquelle, Visionär**
 
-          \- Don´t worry, be tanney -
+          \- - Tanney: Don´t worry, be tanney -
         image: /images/bild1.jpg
 template: advanced
 ---
