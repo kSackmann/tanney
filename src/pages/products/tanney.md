@@ -8,4 +8,3 @@ section: Store
 featured: false
 template: product
 ---
-Produktvielfalt
