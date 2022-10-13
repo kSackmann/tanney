@@ -16,8 +16,7 @@ sections:
       - title: Tannenspitzensirup begeistert
         description: >-
           Kathrin brachte den leckeren Sirup nach Würzburg, wo Lucas und Jan,
-          die Tannenspitzensirup noch nie gekostet hatten, von dem aromatischen
-          Naturprodukt begeistert waren. 
+          die Tannenspitzensirup noch nie gekostet hatten, begeistert waren. 
 
 
           Schon war der Plan gefasst, dieses Produkt wieder groß rauszubringen. 
@@ -30,26 +29,25 @@ sections:
         image: ""
       - description: >-
           > Kathrin's Cousin betreibt mit viel Liebe - und unterstützt von der
-          Familie - einen kleinen Schwarzwaldbauerhof mit Waldgebiet. Er erhält
-          so die alte Tradition des Hofs und erhält die Kulturlandschaft - im
-          Wald und auf dem Feld-.
+          Familie - einen kleinen Schwarzwaldhof mit Waldgebiet. Er erhält so
+          die die Kulturlandschaft - im Wald und auf dem Feld.
 
           >
 
-          > Eine Arbeit die viel Einsatz fordert und an dieser Stelle einen riesen Applaus verdient.
+          > Eine Arbeit die viel Einsatz, Zeit und Hingabe fordert und mich immer wieder begeistert.
 
           >
 
-          > In einem kleinen Waldstück das zum Hof gehört fanden wir dann unser Erntegebiet.
+          > In einem kleinen Waldstück das zum Hof gehört, fanden wir dann unser Erntegebiet.
         title: Ernten - aber nachhaltig!
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
       - description: >-
-          2021 haben wir zum zweiten Mal Tannwipfel geerntet und mit Hilfe von
-          Kathrins Onkel viele Tannen-und Fichtenwipfel und die anderen geheimen
-          Zutaten in 70 Gläser goldenes Glück umgewandelt!
+          2021 haben dann gemeinsam geerntet und mit Hilfe von Kathrins Onkel
+          viele Tannen-und Fichtenwipfel in 70 Gläser goldenes Glück
+          umgewandelt!
 
 
-          Seiter wird Tanney fleissig veschenkt und verteilt.
+          Seither wird Tanney fleissig veschenkt und verteilt.
         title: Tanney für alle
         image: /images/20221012_115910.jpg
 template: advanced
