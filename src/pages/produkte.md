@@ -1,11 +1,11 @@
 ---
-title: Produkte
+title: Zutaten
 white_header: false
 sections:
   - type: bulletpoints_section
     section_id: Unsere Produkte sind doppelt Spitze
     bulletpoints:
-      - title: "Grundzutaten "
+      - title: Grundgutezutaten
         description: Wir verwenden gute Zutaten und lassen weg, was nicht hineingehört -
           weil der Geschmack entscheidet.
         image: ""
