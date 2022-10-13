@@ -14,7 +14,7 @@ sections:
         image: /images/1016565_936735949689791_7040246460474904409_n.jpg
       - title: Lucas
         description: |-
-          **Entertainer, Brandlöscher, Umsetzer**
+          **Ententrainer, Brandlöscher, Umsetzer**
 
           \- Tanney: Makes me fast and runney -
         image: /images/us.jpg
