@@ -9,9 +9,9 @@ sections:
     content: |-
       ![](/images/tanney_opaque_s.png)
 
-      # \- Better than honey -
+      ## \- Better than honey -
 
-      # \- worth the money -
+      ## \- worth the money -
 
       <br>
       <br>
