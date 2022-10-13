@@ -28,7 +28,7 @@ sections:
         description: |-
           **Energiebündel, Inspirationsquelle, Visionär**
 
-          \- - Tanney: Don´t worry, be tanney -
+          \- Tanney: Don´t worry, be tanney -
         image: /images/bild1.jpg
 template: advanced
 ---
