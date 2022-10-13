@@ -42,9 +42,10 @@ sections:
         title: Ernten - aber nachhaltig!
         image: /images/signal-2022-05-15-08-24-11-295-3.jpg
       - description: >-
-          2021 war es soweit! Label und Website haben Prototypen und wir haben
-          mit Hilfe von Kathrins Onkel in seiner kleinen Schwarzwaldküche unsere
-          Tannen-und Fichtenwipfel in 70 Gläser goldenes Glück umgewandelt!
+          2021 war es soweit! 
+
+
+          Label und Website Prototypen sind gemacht und die Wipfel haben mit Hilfe von Kathrins Onkel in seiner kleinen Schwarzwaldküche in 70 Gläser goldenes Glück umgewandelt!
 
 
           Seither wird Tanney fleissig veschenkt und verteilt.
@@ -57,7 +58,13 @@ sections:
           Baumkrone wachsen. 
 
 
+
+
           > Unser Erntegebiet besteht aus Privatwald mit Fichten und Tannen aus Wildanflug, der nicht forstwirtschaftlich genutzt werden soll. Außer den Rehen - die die kleinen Wipfel auch besonders lecker finden, aber auch vor Ort ein Überangebot an Nahrung haben - nehmen wir so niemandem etwas weg.
+
+          >
+
+          >
 
 
           Wir streben nach einem klimaneutralem Handeln und möchten bei ersten Einnahmen einen Teil an das Bergwaldprojekt e.V. spenden.
