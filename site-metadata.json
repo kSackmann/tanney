@@ -31,12 +31,6 @@
     {
       "style": "primary",
       "type": "action",
-      "title": "Kontakt",
-      "url": "https://www.tanney.de/kontakt"
-    },
-    {
-      "style": "primary",
-      "type": "action",
       "title": "Impressum",
       "url": "https://www.tanney.de/impressum"
     }
