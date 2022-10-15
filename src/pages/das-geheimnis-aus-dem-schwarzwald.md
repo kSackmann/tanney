@@ -30,7 +30,7 @@ sections:
       - description: >-
           > Kathrin's Cousin betreibt mit viel Liebe - und unterstützt von der
           Familie - einen kleinen Schwarzwaldhof mit Waldgebiet. Er erhält so
-          die die Kulturlandschaft - im Wald und auf dem Feld.
+          die Kulturlandschaft - im Wald und auf dem Feld.
 
           >
 
