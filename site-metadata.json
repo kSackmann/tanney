@@ -33,6 +33,12 @@
       "type": "action",
       "title": "Impressum",
       "url": "https://www.tanney.de/impressum"
+    },
+    {
+      "style": "primary",
+      "type": "action",
+      "title": "Vorbestellen",
+      "url": "https://www.tanney.de/vorbestellen"
     }
   ],
   "logo_dark": "",
