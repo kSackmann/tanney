@@ -1,6 +1,5 @@
 ---
 title: Tanney vorbestellen
-sections:
-  - type: store_section
+sections: []
 template: store
 ---
