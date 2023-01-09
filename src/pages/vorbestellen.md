@@ -1,6 +1,9 @@
 ---
 title: Vorbestellen
-sections: []
+sections:
+  - type: featured_categories_section
+    section_id: Bestell-Link
+    title: https://docs.google.com/forms/d/e/1FAIpQLScf1WgTaypbztc_o3LZR2ayKtPtuICKfVzkJns4UkABDj8dMA/viewform?usp=sf_link
 template: advanced
 ---
 
