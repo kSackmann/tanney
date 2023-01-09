@@ -10,11 +10,11 @@
       "url": "https://www.tanney.de/das-geheimnis-aus-dem-schwarzwald"
     },
     {
-      "style": "primary",
+      "style": "secondary",
       "type": "action",
       "title": "Zutaten",
       "url": "https://www.tanney.de/produkte",
-      "arrow": false
+      "arrow": true
     },
     {
       "style": "primary",
@@ -23,7 +23,7 @@
       "title": "Team"
     },
     {
-      "style": "primary",
+      "style": "link",
       "type": "action",
       "title": "Rezepte",
       "url": "https://www.tanney.de/rezepte"
