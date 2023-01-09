@@ -1,6 +1,5 @@
 ---
 title: Vorbestellen
-sections:
-  - type: store_section
+sections: []
 template: advanced
 ---
