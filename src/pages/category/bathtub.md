@@ -1,0 +1,4 @@
+---
+title: Bathtub
+template: category
+---
