@@ -14,18 +14,10 @@ sections:
         title: Wie alles begann...
         image: /images/ernte.jpg
       - title: Tannenspitzensirup begeistert
-        description: >-
-          Kathrin brachte den leckeren Sirup nach Würzburg, wo Lucas und Jan,
-          die Tannenspitzensirup noch nie gekostet hatten, begeistert waren. 
-
-
+        description: |-
           Schon war der Plan gefasst, dieses Produkt wieder groß rauszubringen. 
 
-
-          Aber wie?  Website?  Labels?  
-
-
-          Und wie kann man viele Tannenwipfel ernten, ohne dem Ökosystem oder den Waldbesitzern zu schaden?
+          Aber wie?  Website?  Labels?
         image: ""
       - description: >-
           > Kathrin's Cousin betreibt mit viel Liebe - und unterstützt von der
