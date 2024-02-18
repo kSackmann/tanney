@@ -32,7 +32,7 @@ sections:
           location: ""
       - text: '"Das neue schwarze Gold!"'
         author:
-          name: Tiemanotti
+          name: Deleted User
           location: "2022"
       - text: '"Wow"'
         author:
