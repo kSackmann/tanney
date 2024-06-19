@@ -30,5 +30,15 @@ sections:
 
           \-  Tanney: I eat it all! -
         image: /images/20240522_131034.jpg
+      - title: ...Weitere Verdächtige
+        image: /images/1716729967202.jpg
+        description: >-
+          Jedes Jahr kommen tolle Menschen mit, die unterstützen beim sammeln
+          und kochen.
+
+
+
+
+          Natürlich ist Tanney nicht nur arbeit. Gemeinsames Wandern mit Infos zu Kräutern und Genussproben im Wald, ein Flammkuchenfest auf dem Hof und der Besuch im Barfusspark sind auch auf dem Programm.
 template: advanced
 ---
