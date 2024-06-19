@@ -8,15 +8,21 @@ sections:
         description: \- immer unterstützt von tollen Freunden -
       - title: Kathrin
         description: |-
-          **Kreativwerkstatt, Kick-Starter, Chaotin**
+          **Kreativwerkstatt, Kick-Starterin, Chaotin**
 
           \- Tanney: Better than honey - worth the money! -
-        image: /images/1016565_936735949689791_7040246460474904409_n.jpg
+        image: /images/ernee.jpg
       - title: Nathalie
         description: |-
           **Sunshine, Supporter, Superwoman**
 
           \-  Tanney: Oma Honig - Neu verklebt! -
-        image: /images/signal-2022-10-07-194610_002.jpeg
+        image: /images/1716364013499.jpg
+      - title: Lara
+        description: |-
+          **Ravishing, Reliable, Real**
+
+          \-  Tanney: Get it done, ey! -
+        image: /images/20240522_131102.jpg
 template: advanced
 ---
