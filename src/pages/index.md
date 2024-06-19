@@ -26,17 +26,17 @@ sections:
   - type: testimonials_section
     section_id: testimonials_section
     testimonials:
-      - text: ""
+      - text: Einfach angenehm!
         author:
-          name: ""
-          location: ""
+          name: Eve
+          location: "2024"
       - text: '"Das neue schwarze Gold!"'
         author:
           name: Deleted User
           location: "2022"
-      - text: '"Wow"'
+      - text: '"Einfach Wow"'
         author:
-          name: Gertraud
+          name: Chrissikowski
           location: "2022"
       - text: '"Cool und unterstützenswert!"'
         author:
