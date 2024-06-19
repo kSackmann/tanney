@@ -11,7 +11,7 @@ sections:
           **Kreativwerkstatt, Kick-Starterin, Chaotin**
 
           \- Tanney: Better than honey - worth the money! -
-        image: /images/ernee.jpg
+        image: /images/1716383233548.jpg
       - title: Nathalie
         description: |-
           **Sunshine, Supporter, Superwoman**
