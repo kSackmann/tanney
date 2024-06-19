@@ -24,5 +24,11 @@ sections:
 
           \-  Tanney: Get it done, ey! -
         image: /images/20240522_131102.jpg
+      - title: Bea
+        description: |-
+          **Grounded, Great, Gratin**
+
+          \-  Tanney: I eat it all! -
+        image: /images/20240522_131034.jpg
 template: advanced
 ---
