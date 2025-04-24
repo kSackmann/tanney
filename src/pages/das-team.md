@@ -32,9 +32,10 @@ sections:
         image: /images/20240522_131034.jpg
       - title: ...Weitere Verdächtige
         image: /images/1716729967202.jpg
-        description: Jedes Jahr kommen weitere Unterstützer*innen mit, denn Tanney ist
-          nicht nur Arbeit. Gemeinsames Wandern, Kräutergenuss im Wald, ein
-          Flammkuchenfest auf dem Hof und der Besuch im Barfusspark, im Whirpool
-          hängen, Brettspiele spielen....
+        description: >-
+          **Jedes Jahr schließen sich neue Unterstützer*innen an – denn *Tanney*
+          bedeutet nicht nur Arbeit.**\
+
+          Gemeinsame Wanderungen, Kräutergenuss direkt im Wald, ein Flammkuchenfest auf dem Hof, ein Besuch im Barfußpark, entspannte Stunden im Whirlpool und gesellige Brettspielrunden gehören genauso dazu.
 template: advanced
 ---
